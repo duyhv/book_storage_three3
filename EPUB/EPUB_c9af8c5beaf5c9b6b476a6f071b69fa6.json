@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhan-qua-va-phat-phap-nhiem-mau_20720.html",
+    "title" : "Nhân Quả Và Phật Pháp Nhiệm Màu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Anh Sướng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 7316,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_c9af8c5beaf5c9b6b476a6f071b69fa6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_c9af8c5beaf5c9b6b476a6f071b69fa6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_c9af8c5beaf5c9b6b476a6f071b69fa6_4b5dad2501af43d583fbed2a0d24f3c8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1203,
+    "title" : "CÂU CHUYỆN 1 |NHÂN QUẢ VÀ PHẬT PHÁP NHIỆM MÀU|QUYỂN 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_c9af8c5beaf5c9b6b476a6f071b69fa6_a8a1316317b56ad3a324fa821b7f3dce.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2182,
+    "title" : "CÂU CHUYỆN 2 |NHÂN QUẢ VÀ PHẬT PHÁP NHIỆM MÀU|QUYỂN 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_c9af8c5beaf5c9b6b476a6f071b69fa6_88bdac091444ffd2c035da3af4aa63a9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1935,
+    "title" : "NHÂN QUẢ VÀ PHẬT PHÁP NHIỆM MÀU |CÂU CHUYỆN 3| RADIO TÂM AN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_c9af8c5beaf5c9b6b476a6f071b69fa6_4f611f6a0e999f9a4ad495f0cdefbc04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1996,
+    "title" : "CÂU CHUYỆN 4 - NHÂN QUẢ VÀ PHẬT PHÁP NHIỆM MÀU|RADIO TÂM AN",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_c9af8c5beaf5c9b6b476a6f071b69fa6_4b5dad2501af43d583fbed2a0d24f3c8.mp3",
+    "title" : "CÂU CHUYỆN 1 |NHÂN QUẢ VÀ PHẬT PHÁP NHIỆM MÀU|QUYỂN 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_c9af8c5beaf5c9b6b476a6f071b69fa6_a8a1316317b56ad3a324fa821b7f3dce.mp3",
+    "title" : "CÂU CHUYỆN 2 |NHÂN QUẢ VÀ PHẬT PHÁP NHIỆM MÀU|QUYỂN 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_c9af8c5beaf5c9b6b476a6f071b69fa6_88bdac091444ffd2c035da3af4aa63a9.mp3",
+    "title" : "NHÂN QUẢ VÀ PHẬT PHÁP NHIỆM MÀU |CÂU CHUYỆN 3| RADIO TÂM AN",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_c9af8c5beaf5c9b6b476a6f071b69fa6_4f611f6a0e999f9a4ad495f0cdefbc04.mp3",
+    "title" : "CÂU CHUYỆN 4 - NHÂN QUẢ VÀ PHẬT PHÁP NHIỆM MÀU|RADIO TÂM AN",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
