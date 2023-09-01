@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/luoc-su-loai-nguoi_19670.html",
+    "title" : "Lược Sử Loài Người",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Yuval Noah Harari",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-21",
+    "duration" : 21652,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_a2446d9e194ace103f9078fed20b8d9f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_a2446d9e194ace103f9078fed20b8d9f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_f5a7bf7f7b07e24ef71b6db1b600f0fd_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lược sử loài người1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_f5a7bf7f7b07e24ef71b6db1b600f0fd_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lược sử loài người1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_f5a7bf7f7b07e24ef71b6db1b600f0fd_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lược sử loài người1 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_f5a7bf7f7b07e24ef71b6db1b600f0fd_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lược sử loài người1 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_f5a7bf7f7b07e24ef71b6db1b600f0fd_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lược sử loài người1 (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_f5a7bf7f7b07e24ef71b6db1b600f0fd_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lược sử loài người1 (6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_f5a7bf7f7b07e24ef71b6db1b600f0fd_7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lược sử loài người1 (7)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_f5a7bf7f7b07e24ef71b6db1b600f0fd_8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lược sử loài người1 (8)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_70d7b212d02562a244fb8b81d8992ce3_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lược sử loài người2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_70d7b212d02562a244fb8b81d8992ce3_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lược sử loài người2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_70d7b212d02562a244fb8b81d8992ce3_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lược sử loài người2 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_70d7b212d02562a244fb8b81d8992ce3_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lược sử loài người2 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_70d7b212d02562a244fb8b81d8992ce3_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lược sử loài người2 (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_70d7b212d02562a244fb8b81d8992ce3_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lược sử loài người2 (6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_70d7b212d02562a244fb8b81d8992ce3_7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lược sử loài người2 (7)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_70d7b212d02562a244fb8b81d8992ce3_8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Lược sử loài người2 (8)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_f5a7bf7f7b07e24ef71b6db1b600f0fd_1.mp3",
+    "title" : "Lược sử loài người1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_f5a7bf7f7b07e24ef71b6db1b600f0fd_2.mp3",
+    "title" : "Lược sử loài người1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_f5a7bf7f7b07e24ef71b6db1b600f0fd_3.mp3",
+    "title" : "Lược sử loài người1 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_f5a7bf7f7b07e24ef71b6db1b600f0fd_4.mp3",
+    "title" : "Lược sử loài người1 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_f5a7bf7f7b07e24ef71b6db1b600f0fd_5.mp3",
+    "title" : "Lược sử loài người1 (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_f5a7bf7f7b07e24ef71b6db1b600f0fd_6.mp3",
+    "title" : "Lược sử loài người1 (6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_f5a7bf7f7b07e24ef71b6db1b600f0fd_7.mp3",
+    "title" : "Lược sử loài người1 (7)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_f5a7bf7f7b07e24ef71b6db1b600f0fd_8.mp3",
+    "title" : "Lược sử loài người1 (8)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_70d7b212d02562a244fb8b81d8992ce3_1.mp3",
+    "title" : "Lược sử loài người2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_70d7b212d02562a244fb8b81d8992ce3_2.mp3",
+    "title" : "Lược sử loài người2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_70d7b212d02562a244fb8b81d8992ce3_3.mp3",
+    "title" : "Lược sử loài người2 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_70d7b212d02562a244fb8b81d8992ce3_4.mp3",
+    "title" : "Lược sử loài người2 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_70d7b212d02562a244fb8b81d8992ce3_5.mp3",
+    "title" : "Lược sử loài người2 (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_70d7b212d02562a244fb8b81d8992ce3_6.mp3",
+    "title" : "Lược sử loài người2 (6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_70d7b212d02562a244fb8b81d8992ce3_7.mp3",
+    "title" : "Lược sử loài người2 (7)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_a2446d9e194ace103f9078fed20b8d9f_70d7b212d02562a244fb8b81d8992ce3_8.mp3",
+    "title" : "Lược sử loài người2 (8)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
