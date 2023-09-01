@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuong-thu_12959.html",
+    "title" : "Cuồng Thú",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dứa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 11725,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_39d23076b74a2ba6f07d16cd5e91c940.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_39d23076b74a2ba6f07d16cd5e91c940.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_39d23076b74a2ba6f07d16cd5e91c940_d486b9692247ab4a4e13eab0941f5cae.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4091,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_39d23076b74a2ba6f07d16cd5e91c940_c3c7334f9035c900a45526a62b704465.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4169,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_39d23076b74a2ba6f07d16cd5e91c940_34ae90b07c8cc2f60eed9e4c8dca3935.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3465,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_39d23076b74a2ba6f07d16cd5e91c940_d486b9692247ab4a4e13eab0941f5cae.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_39d23076b74a2ba6f07d16cd5e91c940_c3c7334f9035c900a45526a62b704465.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_39d23076b74a2ba6f07d16cd5e91c940_34ae90b07c8cc2f60eed9e4c8dca3935.mp3",
+    "title" : "3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
