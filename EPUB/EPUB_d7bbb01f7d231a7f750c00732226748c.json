@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/huyen-thuat_20856.html",
+    "title" : "Huyền Thuật",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Danh Giác",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-08",
+    "duration" : 7197,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_d7bbb01f7d231a7f750c00732226748c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_d7bbb01f7d231a7f750c00732226748c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_d7bbb01f7d231a7f750c00732226748c_f17fd7dd0ac91162d348b95ff552872b.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3598,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_d7bbb01f7d231a7f750c00732226748c_872d9cdce1d237319e4376b462b44519.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3599,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_d7bbb01f7d231a7f750c00732226748c_f17fd7dd0ac91162d348b95ff552872b.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_d7bbb01f7d231a7f750c00732226748c_872d9cdce1d237319e4376b462b44519.mp3",
+    "title" : "2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

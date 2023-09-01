@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chi-toi_20122.html",
+    "title" : "Chị Tôi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-29",
+    "duration" : 11253,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_d6990bf72e927a76dfeabdb48a349436.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_d6990bf72e927a76dfeabdb48a349436.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_d6990bf72e927a76dfeabdb48a349436_f50b513f330e6b924e7b3b677428474c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2288,
+    "title" : "CHI TOI 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_d6990bf72e927a76dfeabdb48a349436_2ee8a1a2748ec4cf77197659de218f6f.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1792,
+    "title" : "CHI TOI 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_d6990bf72e927a76dfeabdb48a349436_763b3c55da33698f172e4e00783ea9c5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2828,
+    "title" : "CHI TOI 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_d6990bf72e927a76dfeabdb48a349436_3f5ef61918009777aede9634e17a25f3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1903,
+    "title" : "CHI TOI 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_d6990bf72e927a76dfeabdb48a349436_3e6b16aef8cdedf010548079c6604397.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2442,
+    "title" : "CHI TOI 05",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_d6990bf72e927a76dfeabdb48a349436_f50b513f330e6b924e7b3b677428474c.mp3",
+    "title" : "CHI TOI 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_d6990bf72e927a76dfeabdb48a349436_2ee8a1a2748ec4cf77197659de218f6f.mp3",
+    "title" : "CHI TOI 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_d6990bf72e927a76dfeabdb48a349436_763b3c55da33698f172e4e00783ea9c5.mp3",
+    "title" : "CHI TOI 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_d6990bf72e927a76dfeabdb48a349436_3f5ef61918009777aede9634e17a25f3.mp3",
+    "title" : "CHI TOI 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_d6990bf72e927a76dfeabdb48a349436_3e6b16aef8cdedf010548079c6604397.mp3",
+    "title" : "CHI TOI 05",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
