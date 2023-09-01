@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tu-duy-nhu-mot-ke-lap-di_19653.html",
+    "title" : "Tư Duy Như Một Kẻ Lập Dị",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Steven D. Levitt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-22",
+    "duration" : 7293,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_a5fdceb23627965b357f16eccf53326d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_a5fdceb23627965b357f16eccf53326d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_a5fdceb23627965b357f16eccf53326d_4bf92d6950683b5e216f5f5002dc4f6c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2130,
+    "title" : "tu-duy-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_a5fdceb23627965b357f16eccf53326d_225b075787d6733d3e765e7d8f764b07_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-duy-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_a5fdceb23627965b357f16eccf53326d_225b075787d6733d3e765e7d8f764b07_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-duy-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_a5fdceb23627965b357f16eccf53326d_4dcb751f1a5f59f7a1b8c2bb281b3183.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2010,
+    "title" : "tu-duy-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_a5fdceb23627965b357f16eccf53326d_4bf92d6950683b5e216f5f5002dc4f6c.mp3",
+    "title" : "tu-duy-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_a5fdceb23627965b357f16eccf53326d_225b075787d6733d3e765e7d8f764b07_1.mp3",
+    "title" : "tu-duy-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_a5fdceb23627965b357f16eccf53326d_225b075787d6733d3e765e7d8f764b07_2.mp3",
+    "title" : "tu-duy-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_a5fdceb23627965b357f16eccf53326d_4dcb751f1a5f59f7a1b8c2bb281b3183.mp3",
+    "title" : "tu-duy-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
