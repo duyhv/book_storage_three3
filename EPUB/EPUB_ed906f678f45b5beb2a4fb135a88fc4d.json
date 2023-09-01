@@ -1,0 +1,677 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bi-quyet-cua-thanh-cong-tap-2_16989.html",
+    "title" : "Bí Quyết Của Thành Công - Tập 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "David Niven",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 8911,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_ed906f678f45b5beb2a4fb135a88fc4d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_ed906f678f45b5beb2a4fb135a88fc4d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/01-ban_se_bo_cuoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 284,
+    "title" : "Bạn sẽ bỏ cuộc nhanh hơn nếu không tự tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/02-doi_khi_hay_biet_vuot_qua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 268,
+    "title" : "Đôi khi hãy biết vượt qua lòng kiêu hãnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/03-biet_lanh_dao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 193,
+    "title" : "Biết lãnh đạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/04-hay_manh_dan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 139,
+    "title" : "Hãy mạnh dạn và chứng tỏ khả năng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/05-nang_cao_hieu_qua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 230,
+    "title" : "Nâng cao hiệu quả và chất lượng thời gian",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/06-dung_song_va_lam_viec.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 144,
+    "title" : "Đừng sống và làm việc vì lời khen",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/07-khoi_day_thai_do.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 176,
+    "title" : "Khơi dậy thái độ và động cơ làm việc đúng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/08-dung_bi_tac_dong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 193,
+    "title" : "Đừng bị tác động bởi thông tin tiêu cực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/09-hai_hoa_cong_viec.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 139,
+    "title" : "Hài hòa công việc và gia đình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/10-noi_nao_co_mot_nguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 177,
+    "title" : "Nơi nào có một người chiến thắng, nơi đó có một người thua cuộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/11-biet_vui_dua_va_hai_huoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 154,
+    "title" : "Biết vui đùa và hài hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/12-ban_ko_the_muon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 138,
+    "title" : "Bạn không thể muốn tất cả mọi thứ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/13-biet_danh_gia_dung_nguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 146,
+    "title" : "Biết đánh giá đúng người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/14-biet_khoi_day.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 153,
+    "title" : "Biết khơi dậy động cơ làm việc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/15-nam_vung_chuyen_mon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 169,
+    "title" : "Nắm vững chuyên môn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/16-that_bai_that_su.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 158,
+    "title" : "Thất bại thật sự chỉ đến khi bạn thôi không còn cố gắng nữa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/17-ban_ko_mot_minh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 96,
+    "title" : "Bạn không một mình. Hãy phát huy trí tuệ tập thể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/18-biet_linh_dong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 175,
+    "title" : "Biết linh động trong mục tiêu của bạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/19-biet_kem_che.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 118,
+    "title" : "Biết kềm chế những cảm xúc thái quá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/20-biet_chia_se_quan_tam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 260,
+    "title" : "Biết chia sẻ, quan tâm đến người khác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/21-biet_hinh_dung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 90,
+    "title" : "Biết hình dung và tưởng tượng ra một viễn cảnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/22-thay_doi_cong_viec.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 128,
+    "title" : "Thay đổi công việc không thể làm thay đổi bạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/23-biet_chiu_dung_va_hy_sinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 237,
+    "title" : "Biết chịu đựng và hy sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/24-neu_chinh_ban_ko_tin.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 88,
+    "title" : "Nếu chính bạn không tin thì sẽ khó thuyết phục được người khác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/25-danh_gia_cao_nguoi_khac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 143,
+    "title" : "Đánh giá cao người khác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/26-biet_chia_se_nhung_suy_nghi_quan_diem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 110,
+    "title" : "Biết chia sẻ những suy nghĩ, quan điểm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/27-giai_phap_toi_uu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 215,
+    "title" : "Giải pháp tối ưu phải đi đôi với tổng thể hợp lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/28-neu_ban_con_nghi_ngo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 200,
+    "title" : "Nếu bạn còn nghi ngờ, bạn sẽ mau chóng bỏ cuộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/29-luon_tu_duy.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 273,
+    "title" : "Luôn tư duy để đổi mới và tìm ra cách tốt hơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/30-biet_xem_trong_kinh_nghiem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 133,
+    "title" : "Biết xem trọng những kinh nghiệm thực tế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/31-ko_dam_mao_hiem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 195,
+    "title" : "Không dám mạo hiểm là một sự mạo hiểm lớn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/32-giai_quyet_xung_dot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 121,
+    "title" : "Giải quyết những xung đột gia đình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/33-hay_nho_tien_bac_la_phuong_tien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 105,
+    "title" : "Hãy nhớ tiền bạc là phương tiện, không phải là mục đích",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/34-nhan_xet_trung_thuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 243,
+    "title" : "Nhận xét trung thực về khả năng của mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/35-tim_cach_the_hien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 198,
+    "title" : "Tìm cách thể hiện và hướng đi khác biệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/36-co_trach_nhiem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 137,
+    "title" : "Có trách nhiệm với công việc của bạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/37-trung_thuc_voi_chinh_minh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 181,
+    "title" : "Trung thực với chính mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/38-xac_dinh_dau_la_dieu_ban_muon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 128,
+    "title" : "Xác định đâu là điều bạn muốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/39-nen_tu_gioi_thieu_ve_minh_dung_luc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 143,
+    "title" : "Nên tự giới thiệu về mình đúng lúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/40-biet_tim_cam_hung_cho_cong_viec.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 134,
+    "title" : "Biết tìm cảm hứng cho công việc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/41-chien_thang_bang_gia_qua_dat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 161,
+    "title" : "Chiến thắng bằng một giá quá đắt thì không còn là chiến thắng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/42-quan_tam_den_hieu_qua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 181,
+    "title" : "Quan tâm đến hiệu quả trong công việc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/43-manh_dan_thay_doi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 140,
+    "title" : "Mạnh dạn thay đổi khi cần thiết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/44-biet_khoi_day_suc_manh_tap_the.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 130,
+    "title" : "Biết khơi dậy sức mạnh tập thể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/45-chap_nhan_va_vuot_qua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 112,
+    "title" : "Chấp nhận và vượt qua những điều không may",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/46-kiem_soat_cong_viec_minh_dang_lam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 204,
+    "title" : "Kiểm soát công việc mình đang làm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/47-hieu_y_nghia_cong_viec.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 119,
+    "title" : "Hiểu ý nghĩa công việc bạn đang làm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/48-dieu_gi_la_quan_trong_voi_ban.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 213,
+    "title" : "Điều gì là quan trọng đối với bạn?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/49-kien_dinh_va_doc_lap.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 175,
+    "title" : "Kiên định và độc lập trong suy nghĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/50-dat_muc_tieu_phu_hop.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 122,
+    "title" : "Đặt mục tiêu phù hợp với niềm say mê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/51-hay_co_uoc_mo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 214,
+    "title" : "Hãy có mơ ước và từng bước thực hiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/52-luon_tu_tin_va_lac_quan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 213,
+    "title" : "Luôn tự tin và lạc quan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/53-hay_lam_song_day.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 215,
+    "title" : "Hãy làm sống dậy hy vọng và ước mơ trong bạn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/01-ban_se_bo_cuoc.mp3",
+    "title" : "Bạn sẽ bỏ cuộc nhanh hơn nếu không tự tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/02-doi_khi_hay_biet_vuot_qua.mp3",
+    "title" : "Đôi khi hãy biết vượt qua lòng kiêu hãnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/03-biet_lanh_dao.mp3",
+    "title" : "Biết lãnh đạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/04-hay_manh_dan.mp3",
+    "title" : "Hãy mạnh dạn và chứng tỏ khả năng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/05-nang_cao_hieu_qua.mp3",
+    "title" : "Nâng cao hiệu quả và chất lượng thời gian",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/06-dung_song_va_lam_viec.mp3",
+    "title" : "Đừng sống và làm việc vì lời khen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/07-khoi_day_thai_do.mp3",
+    "title" : "Khơi dậy thái độ và động cơ làm việc đúng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/08-dung_bi_tac_dong.mp3",
+    "title" : "Đừng bị tác động bởi thông tin tiêu cực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/09-hai_hoa_cong_viec.mp3",
+    "title" : "Hài hòa công việc và gia đình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/10-noi_nao_co_mot_nguoi.mp3",
+    "title" : "Nơi nào có một người chiến thắng, nơi đó có một người thua cuộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/11-biet_vui_dua_va_hai_huoc.mp3",
+    "title" : "Biết vui đùa và hài hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/12-ban_ko_the_muon.mp3",
+    "title" : "Bạn không thể muốn tất cả mọi thứ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/13-biet_danh_gia_dung_nguoi.mp3",
+    "title" : "Biết đánh giá đúng người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/14-biet_khoi_day.mp3",
+    "title" : "Biết khơi dậy động cơ làm việc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/15-nam_vung_chuyen_mon.mp3",
+    "title" : "Nắm vững chuyên môn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/16-that_bai_that_su.mp3",
+    "title" : "Thất bại thật sự chỉ đến khi bạn thôi không còn cố gắng nữa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/17-ban_ko_mot_minh.mp3",
+    "title" : "Bạn không một mình. Hãy phát huy trí tuệ tập thể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/18-biet_linh_dong.mp3",
+    "title" : "Biết linh động trong mục tiêu của bạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/19-biet_kem_che.mp3",
+    "title" : "Biết kềm chế những cảm xúc thái quá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/20-biet_chia_se_quan_tam.mp3",
+    "title" : "Biết chia sẻ, quan tâm đến người khác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/21-biet_hinh_dung.mp3",
+    "title" : "Biết hình dung và tưởng tượng ra một viễn cảnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/22-thay_doi_cong_viec.mp3",
+    "title" : "Thay đổi công việc không thể làm thay đổi bạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/23-biet_chiu_dung_va_hy_sinh.mp3",
+    "title" : "Biết chịu đựng và hy sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/24-neu_chinh_ban_ko_tin.mp3",
+    "title" : "Nếu chính bạn không tin thì sẽ khó thuyết phục được người khác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/25-danh_gia_cao_nguoi_khac.mp3",
+    "title" : "Đánh giá cao người khác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/26-biet_chia_se_nhung_suy_nghi_quan_diem.mp3",
+    "title" : "Biết chia sẻ những suy nghĩ, quan điểm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/27-giai_phap_toi_uu.mp3",
+    "title" : "Giải pháp tối ưu phải đi đôi với tổng thể hợp lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/28-neu_ban_con_nghi_ngo.mp3",
+    "title" : "Nếu bạn còn nghi ngờ, bạn sẽ mau chóng bỏ cuộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/29-luon_tu_duy.mp3",
+    "title" : "Luôn tư duy để đổi mới và tìm ra cách tốt hơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/30-biet_xem_trong_kinh_nghiem.mp3",
+    "title" : "Biết xem trọng những kinh nghiệm thực tế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/31-ko_dam_mao_hiem.mp3",
+    "title" : "Không dám mạo hiểm là một sự mạo hiểm lớn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/32-giai_quyet_xung_dot.mp3",
+    "title" : "Giải quyết những xung đột gia đình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/33-hay_nho_tien_bac_la_phuong_tien.mp3",
+    "title" : "Hãy nhớ tiền bạc là phương tiện, không phải là mục đích",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/34-nhan_xet_trung_thuc.mp3",
+    "title" : "Nhận xét trung thực về khả năng của mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/35-tim_cach_the_hien.mp3",
+    "title" : "Tìm cách thể hiện và hướng đi khác biệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/36-co_trach_nhiem.mp3",
+    "title" : "Có trách nhiệm với công việc của bạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/37-trung_thuc_voi_chinh_minh.mp3",
+    "title" : "Trung thực với chính mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/38-xac_dinh_dau_la_dieu_ban_muon.mp3",
+    "title" : "Xác định đâu là điều bạn muốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/39-nen_tu_gioi_thieu_ve_minh_dung_luc.mp3",
+    "title" : "Nên tự giới thiệu về mình đúng lúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/40-biet_tim_cam_hung_cho_cong_viec.mp3",
+    "title" : "Biết tìm cảm hứng cho công việc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/41-chien_thang_bang_gia_qua_dat.mp3",
+    "title" : "Chiến thắng bằng một giá quá đắt thì không còn là chiến thắng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/42-quan_tam_den_hieu_qua.mp3",
+    "title" : "Quan tâm đến hiệu quả trong công việc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/43-manh_dan_thay_doi.mp3",
+    "title" : "Mạnh dạn thay đổi khi cần thiết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/44-biet_khoi_day_suc_manh_tap_the.mp3",
+    "title" : "Biết khơi dậy sức mạnh tập thể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/45-chap_nhan_va_vuot_qua.mp3",
+    "title" : "Chấp nhận và vượt qua những điều không may",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/46-kiem_soat_cong_viec_minh_dang_lam.mp3",
+    "title" : "Kiểm soát công việc mình đang làm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/47-hieu_y_nghia_cong_viec.mp3",
+    "title" : "Hiểu ý nghĩa công việc bạn đang làm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/48-dieu_gi_la_quan_trong_voi_ban.mp3",
+    "title" : "Điều gì là quan trọng đối với bạn?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/49-kien_dinh_va_doc_lap.mp3",
+    "title" : "Kiên định và độc lập trong suy nghĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/50-dat_muc_tieu_phu_hop.mp3",
+    "title" : "Đặt mục tiêu phù hợp với niềm say mê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/51-hay_co_uoc_mo.mp3",
+    "title" : "Hãy có mơ ước và từng bước thực hiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/52-luon_tu_tin_va_lac_quan.mp3",
+    "title" : "Luôn tự tin và lạc quan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetCuaThanhCongTap2/53-hay_lam_song_day.mp3",
+    "title" : "Hãy làm sống dậy hy vọng và ước mơ trong bạn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
