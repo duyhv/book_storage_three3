@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vang-tieng-hong-chung_19790.html",
+    "title" : "Vẳng Tiếng Hồng Chung",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhuận Bình",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-28",
+    "duration" : 16053,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_63a605ae5731cc7164958b02ee02eb64.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_63a605ae5731cc7164958b02ee02eb64.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_f6eb18bb634963af2eb599863c52ac82_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "vang-tieng-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_f6eb18bb634963af2eb599863c52ac82_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "vang-tieng-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_f6eb18bb634963af2eb599863c52ac82_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "vang-tieng-1 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_2389a648a16f8a019535e84b76b51393_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "vang-tieng-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_2389a648a16f8a019535e84b76b51393_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "vang-tieng-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_180eeb4747746d3747a57e2a0170fe23_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "vang-tieng-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_180eeb4747746d3747a57e2a0170fe23_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "vang-tieng-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_b88ed2bb060b9a42bb5ff3a0a7e862af_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "vang-tieng-4 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_b88ed2bb060b9a42bb5ff3a0a7e862af_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "vang-tieng-4 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_b88ed2bb060b9a42bb5ff3a0a7e862af_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "vang-tieng-4 (3)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_f6eb18bb634963af2eb599863c52ac82_1.mp3",
+    "title" : "vang-tieng-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_f6eb18bb634963af2eb599863c52ac82_2.mp3",
+    "title" : "vang-tieng-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_f6eb18bb634963af2eb599863c52ac82_3.mp3",
+    "title" : "vang-tieng-1 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_2389a648a16f8a019535e84b76b51393_1.mp3",
+    "title" : "vang-tieng-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_2389a648a16f8a019535e84b76b51393_2.mp3",
+    "title" : "vang-tieng-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_180eeb4747746d3747a57e2a0170fe23_1.mp3",
+    "title" : "vang-tieng-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_180eeb4747746d3747a57e2a0170fe23_2.mp3",
+    "title" : "vang-tieng-3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_b88ed2bb060b9a42bb5ff3a0a7e862af_1.mp3",
+    "title" : "vang-tieng-4 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_b88ed2bb060b9a42bb5ff3a0a7e862af_2.mp3",
+    "title" : "vang-tieng-4 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_63a605ae5731cc7164958b02ee02eb64_b88ed2bb060b9a42bb5ff3a0a7e862af_3.mp3",
+    "title" : "vang-tieng-4 (3)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,353 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/25-nhan-vat-noi-tieng-the-gioi_20243.html",
+    "title" : "25 Nhân Vật Nổi Tiếng Thế Giới",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Đình Nhơn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-29",
+    "duration" : 48616,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_643df0b8bed1e031354c51e1c79ad0f5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_643df0b8bed1e031354c51e1c79ad0f5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/01.C01_RonaldReagan_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2062,
+    "title" : "01.C01 RonaldReagan 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/02.C02_GiaoHoangJohnPaulII_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2771,
+    "title" : "02.C02 GiaoHoangJohnPaulII 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/03.C03_Ayatollah%20Khomeini_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1016,
+    "title" : "03.C03 Ayatollah Khomeini 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/03.C03_Ayatollah_Khomeini_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1016,
+    "title" : "03.C03 Ayatollah Khomeini 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/04.C04_GeorgeWalkerBush_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4735,
+    "title" : "04.C04 GeorgeWalkerBush 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/05.C05_DangTieuBinh_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2231,
+    "title" : "05.C05 DangTieuBinh 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/06.C06_BillClinton_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3245,
+    "title" : "06.C06 BillClinton 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/07.C07_OsamaBinLaden_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3557,
+    "title" : "07.C07 OsamaBinLaden 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/08.C08_MikhailGorbachev_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 967,
+    "title" : "08.C08 MikhailGorbachev 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/09.C09_NelsonMandela_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1441,
+    "title" : "09.C09 NelsonMandela 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/10.C10_YasserArafat_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1912,
+    "title" : "10.C10 YasserArafat 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/11.C11_BillGates_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4479,
+    "title" : "11.C11 BillGates 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/12.C12_MargaretThatcher_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 298,
+    "title" : "12.C12 MargaretThatcher 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/13.C13_SaddamHussein_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2800,
+    "title" : "13.C13 SaddamHussein 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/14.C14_SamWalton_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2052,
+    "title" : "14.C14 SamWalton 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/15.C15_ArielSharon_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 866,
+    "title" : "15.C15 ArielSharon 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/16.C16_StevenPaulJobs_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1653,
+    "title" : "16.C16 StevenPaulJobs 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/17.C17_JeffBezos_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2129,
+    "title" : "17.C17 JeffBezos 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/18.C18_ElvisPresley_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 964,
+    "title" : "18.C18 ElvisPresley 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/19.C19_MeTeresa_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1010,
+    "title" : "19.C19 MeTeresa 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/20.C20_AlanGreenspan_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1194,
+    "title" : "20.C20 AlanGreenspan 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/21.C21_CarlosGhosn_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1045,
+    "title" : "21.C21 CarlosGhosn 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/22.C22_Diana_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2308,
+    "title" : "22.C22 Diana 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/23.C23_BillyGraham_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 840,
+    "title" : "23.C23 BillyGraham 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/24.C24_OprahWinfrey_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 971,
+    "title" : "24.C24 OprahWinfrey 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/25.C25_Het_StevenSpielberg_25NhanVatNoiTiengTheGioi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1054,
+    "title" : "25.C25 Het StevenSpielberg 25NhanVatNoiTiengTheGioi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/01.C01_RonaldReagan_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "01.C01 RonaldReagan 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/02.C02_GiaoHoangJohnPaulII_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "02.C02 GiaoHoangJohnPaulII 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/03.C03_Ayatollah%20Khomeini_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "03.C03 Ayatollah Khomeini 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/03.C03_Ayatollah_Khomeini_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "03.C03 Ayatollah Khomeini 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/04.C04_GeorgeWalkerBush_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "04.C04 GeorgeWalkerBush 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/05.C05_DangTieuBinh_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "05.C05 DangTieuBinh 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/06.C06_BillClinton_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "06.C06 BillClinton 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/07.C07_OsamaBinLaden_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "07.C07 OsamaBinLaden 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/08.C08_MikhailGorbachev_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "08.C08 MikhailGorbachev 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/09.C09_NelsonMandela_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "09.C09 NelsonMandela 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/10.C10_YasserArafat_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "10.C10 YasserArafat 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/11.C11_BillGates_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "11.C11 BillGates 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/12.C12_MargaretThatcher_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "12.C12 MargaretThatcher 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/13.C13_SaddamHussein_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "13.C13 SaddamHussein 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/14.C14_SamWalton_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "14.C14 SamWalton 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/15.C15_ArielSharon_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "15.C15 ArielSharon 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/16.C16_StevenPaulJobs_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "16.C16 StevenPaulJobs 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/17.C17_JeffBezos_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "17.C17 JeffBezos 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/18.C18_ElvisPresley_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "18.C18 ElvisPresley 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/19.C19_MeTeresa_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "19.C19 MeTeresa 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/20.C20_AlanGreenspan_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "20.C20 AlanGreenspan 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/21.C21_CarlosGhosn_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "21.C21 CarlosGhosn 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/22.C22_Diana_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "22.C22 Diana 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/23.C23_BillyGraham_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "23.C23 BillyGraham 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/24.C24_OprahWinfrey_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "24.C24 OprahWinfrey 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/25-nhan-vat-noi-tieng-the-gioi.sna/25.C25_Het_StevenSpielberg_25NhanVatNoiTiengTheGioi.mp3",
+    "title" : "25.C25 Het StevenSpielberg 25NhanVatNoiTiengTheGioi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
