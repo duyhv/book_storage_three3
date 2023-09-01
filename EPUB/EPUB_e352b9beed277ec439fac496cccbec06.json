@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hon-buom-mo-tien-khai-hung_9788.html",
+    "title" : "Hồn Bướm Mơ Tiên - Khái Hưng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khái Hưng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 7154,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_e352b9beed277ec439fac496cccbec06.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_e352b9beed277ec439fac496cccbec06.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_e352b9beed277ec439fac496cccbec06_5ca26baf802b25958d07a27f48194317.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1773,
+    "title" : "01. Hồn Bướm Mơ Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_e352b9beed277ec439fac496cccbec06_dd113d505fdbfc1f5b5e0d2be3bd0fb5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1516,
+    "title" : "02. Hồn Bướm Mơ Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_e352b9beed277ec439fac496cccbec06_0d62e99957ea899454f5896faa9f7b81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2515,
+    "title" : "03. Hồn Bướm Mơ Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_e352b9beed277ec439fac496cccbec06_8df1f98091b78167013911dc4c50cc63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1350,
+    "title" : "04. Hồn Bướm Mơ Tiên (hết)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_e352b9beed277ec439fac496cccbec06_5ca26baf802b25958d07a27f48194317.mp3",
+    "title" : "01. Hồn Bướm Mơ Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_e352b9beed277ec439fac496cccbec06_dd113d505fdbfc1f5b5e0d2be3bd0fb5.mp3",
+    "title" : "02. Hồn Bướm Mơ Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_e352b9beed277ec439fac496cccbec06_0d62e99957ea899454f5896faa9f7b81.mp3",
+    "title" : "03. Hồn Bướm Mơ Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_e352b9beed277ec439fac496cccbec06_8df1f98091b78167013911dc4c50cc63.mp3",
+    "title" : "04. Hồn Bướm Mơ Tiên (hết)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
