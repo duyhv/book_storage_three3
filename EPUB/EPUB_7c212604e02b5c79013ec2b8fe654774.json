@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/4-doi-tra-nghiep_20805.html",
+    "title" : "4 Đời Trả Nghiệp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khuyết Danh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-08",
+    "duration" : 7812,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_7c212604e02b5c79013ec2b8fe654774.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_7c212604e02b5c79013ec2b8fe654774.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_7c212604e02b5c79013ec2b8fe654774_2200b238b65dfa21ec5bed922dd7237f.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3937,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_7c212604e02b5c79013ec2b8fe654774_d73f1af8655de358b01606e74ab4919d.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3875,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_7c212604e02b5c79013ec2b8fe654774_2200b238b65dfa21ec5bed922dd7237f.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_7c212604e02b5c79013ec2b8fe654774_d73f1af8655de358b01606e74ab4919d.mp3",
+    "title" : "2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
