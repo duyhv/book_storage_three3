@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngai-tu-co-gai-con-trinh-trang_20862.html",
+    "title" : "Ngải Từ Cô Gái Còn Trinh Trắng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diệu Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-08",
+    "duration" : 11508,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_306e80137f1f8713e111cfd957e34f1f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_306e80137f1f8713e111cfd957e34f1f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_f4773424169ce66e3c931d647e93d28c_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_f4773424169ce66e3c931d647e93d28c_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_ccffcfb3ab142e98ef039425a10cd010_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_ccffcfb3ab142e98ef039425a10cd010_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "2 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_f4773424169ce66e3c931d647e93d28c_1.mp3",
+    "title" : "1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_f4773424169ce66e3c931d647e93d28c_2.mp3",
+    "title" : "1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_ccffcfb3ab142e98ef039425a10cd010_1.mp3",
+    "title" : "2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_ccffcfb3ab142e98ef039425a10cd010_2.mp3",
+    "title" : "2 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
