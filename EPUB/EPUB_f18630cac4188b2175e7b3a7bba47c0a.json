@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mat-ma-cam-xuc-5-buoc-giup-ban-thoat-khoi-bay-cam-xuc_20686.html",
+    "title" : "Mật Mã Cảm Xúc - 5 Bước Giúp Bạn Thoát Khỏi Bẫy Cảm Xúc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bradley Nelson",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 41240,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_f18630cac4188b2175e7b3a7bba47c0a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_f18630cac4188b2175e7b3a7bba47c0a.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_f18630cac4188b2175e7b3a7bba47c0a_29dd977414aea499d098bf748b1ac0c8_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mat-ma-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_f18630cac4188b2175e7b3a7bba47c0a_29dd977414aea499d098bf748b1ac0c8_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mat-ma-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_f18630cac4188b2175e7b3a7bba47c0a_819c5256be5b61175cd84e7621cca42b_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mat-ma-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_f18630cac4188b2175e7b3a7bba47c0a_819c5256be5b61175cd84e7621cca42b_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mat-ma-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_f18630cac4188b2175e7b3a7bba47c0a_819c5256be5b61175cd84e7621cca42b_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mat-ma-2 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_f18630cac4188b2175e7b3a7bba47c0a_819c5256be5b61175cd84e7621cca42b_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mat-ma-2 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_f18630cac4188b2175e7b3a7bba47c0a_819c5256be5b61175cd84e7621cca42b_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mat-ma-2 (5)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_f18630cac4188b2175e7b3a7bba47c0a_29dd977414aea499d098bf748b1ac0c8_1.mp3",
+    "title" : "mat-ma-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_f18630cac4188b2175e7b3a7bba47c0a_29dd977414aea499d098bf748b1ac0c8_2.mp3",
+    "title" : "mat-ma-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_f18630cac4188b2175e7b3a7bba47c0a_819c5256be5b61175cd84e7621cca42b_1.mp3",
+    "title" : "mat-ma-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_f18630cac4188b2175e7b3a7bba47c0a_819c5256be5b61175cd84e7621cca42b_2.mp3",
+    "title" : "mat-ma-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_f18630cac4188b2175e7b3a7bba47c0a_819c5256be5b61175cd84e7621cca42b_3.mp3",
+    "title" : "mat-ma-2 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_f18630cac4188b2175e7b3a7bba47c0a_819c5256be5b61175cd84e7621cca42b_4.mp3",
+    "title" : "mat-ma-2 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_f18630cac4188b2175e7b3a7bba47c0a_819c5256be5b61175cd84e7621cca42b_5.mp3",
+    "title" : "mat-ma-2 (5)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
