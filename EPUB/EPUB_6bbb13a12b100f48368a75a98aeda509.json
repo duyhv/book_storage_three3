@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ki-vi-nui-deo_20885.html",
+    "title" : "Kì Vĩ Núi Đèo",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Huy Thắng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-08",
+    "duration" : 11194,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_6bbb13a12b100f48368a75a98aeda509.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_6bbb13a12b100f48368a75a98aeda509.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_c270fc902d26f764708dc7867e391224.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2762,
+    "title" : "KI VI NUI DEO 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_6fe3dbc90787a3407a39c46ecb033db0.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1677,
+    "title" : "KI VI NUI DEO 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_da0dd115168f47321794aa3887da74ae.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1057,
+    "title" : "KI VI NUI DEO 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_a7be68812f4d7d1debc2bac1f5901ccb.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1954,
+    "title" : "KI VI NUI DEO 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_5cb6ef9eed7bf0c39799851535c08d6d.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1605,
+    "title" : "KI VI NUI DEO 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_5c5f34a9e136d9fa7c8ba8556a0c85d7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2139,
+    "title" : "KI VI NUI DEO 06",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_c270fc902d26f764708dc7867e391224.mp3",
+    "title" : "KI VI NUI DEO 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_6fe3dbc90787a3407a39c46ecb033db0.mp3",
+    "title" : "KI VI NUI DEO 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_da0dd115168f47321794aa3887da74ae.mp3",
+    "title" : "KI VI NUI DEO 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_a7be68812f4d7d1debc2bac1f5901ccb.mp3",
+    "title" : "KI VI NUI DEO 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_5cb6ef9eed7bf0c39799851535c08d6d.mp3",
+    "title" : "KI VI NUI DEO 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_5c5f34a9e136d9fa7c8ba8556a0c85d7.mp3",
+    "title" : "KI VI NUI DEO 06",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

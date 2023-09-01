@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bien-va-chim-boi-ca_20689.html",
+    "title" : "Biển Và Chim Bói Cá",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bùi Ngọc Tấn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 58220,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_6c83179a13e2d8f465a7c0e574819a36.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_6c83179a13e2d8f465a7c0e574819a36.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2253,
+    "title" : "bien-va-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1856,
+    "title" : "bien-va-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2367,
+    "title" : "bien-va-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2825,
+    "title" : "bien-va-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2730,
+    "title" : "bien-va-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1961,
+    "title" : "bien-va-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2494,
+    "title" : "bien-va-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2205,
+    "title" : "bien-va-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3026,
+    "title" : "bien-va-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2624,
+    "title" : "bien-va-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2356,
+    "title" : "bien-va-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2677,
+    "title" : "bien-va-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1607,
+    "title" : "bien-va-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2325,
+    "title" : "bien-va-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3314,
+    "title" : "bien-va-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3785,
+    "title" : "bien-va-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3538,
+    "title" : "bien-va-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3507,
+    "title" : "bien-va-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2717,
+    "title" : "bien-va-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3020,
+    "title" : "bien-va-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2573,
+    "title" : "bien-va-21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2460,
+    "title" : "bien-va-22",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-01.mp3",
+    "title" : "bien-va-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-02.mp3",
+    "title" : "bien-va-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-03.mp3",
+    "title" : "bien-va-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-04.mp3",
+    "title" : "bien-va-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-05.mp3",
+    "title" : "bien-va-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-06.mp3",
+    "title" : "bien-va-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-07.mp3",
+    "title" : "bien-va-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-08.mp3",
+    "title" : "bien-va-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-09.mp3",
+    "title" : "bien-va-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-10.mp3",
+    "title" : "bien-va-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-11.mp3",
+    "title" : "bien-va-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-12.mp3",
+    "title" : "bien-va-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-13.mp3",
+    "title" : "bien-va-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-14.mp3",
+    "title" : "bien-va-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-15.mp3",
+    "title" : "bien-va-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-16.mp3",
+    "title" : "bien-va-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-17.mp3",
+    "title" : "bien-va-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-18.mp3",
+    "title" : "bien-va-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-19.mp3",
+    "title" : "bien-va-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-20.mp3",
+    "title" : "bien-va-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-21.mp3",
+    "title" : "bien-va-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bien-va-16/bien-va-22.mp3",
+    "title" : "bien-va-22",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
