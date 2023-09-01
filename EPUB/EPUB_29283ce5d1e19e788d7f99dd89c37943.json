@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_29283ce5d1e19e788d7f99dd89c37943.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_29283ce5d1e19e788d7f99dd89c37943.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_29283ce5d1e19e788d7f99dd89c37943.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_29283ce5d1e19e788d7f99dd89c37943.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_29283ce5d1e19e788d7f99dd89c37943_854f33808b1c1cf4682fa10f61afd39d_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_29283ce5d1e19e788d7f99dd89c37943_854f33808b1c1cf4682fa10f61afd39d_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_29283ce5d1e19e788d7f99dd89c37943_854f33808b1c1cf4682fa10f61afd39d_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_29283ce5d1e19e788d7f99dd89c37943_854f33808b1c1cf4682fa10f61afd39d_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_29283ce5d1e19e788d7f99dd89c37943_854f33808b1c1cf4682fa10f61afd39d_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_29283ce5d1e19e788d7f99dd89c37943_854f33808b1c1cf4682fa10f61afd39d_1.mp3",
     "title" : "100-loi-khuyen (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_29283ce5d1e19e788d7f99dd89c37943_854f33808b1c1cf4682fa10f61afd39d_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_29283ce5d1e19e788d7f99dd89c37943_854f33808b1c1cf4682fa10f61afd39d_2.mp3",
     "title" : "100-loi-khuyen (2)",
     "children" : [ ]
   } ],

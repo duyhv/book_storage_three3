@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_bbd2215baeeb86d26e69fd9741aa02e3.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_bbd2215baeeb86d26e69fd9741aa02e3.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_bbd2215baeeb86d26e69fd9741aa02e3.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_bbd2215baeeb86d26e69fd9741aa02e3.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_93ae5e77cc664f35ee0e3bb17b8b3936.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_93ae5e77cc664f35ee0e3bb17b8b3936.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1800,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_27e07dd355b2b507af0afcfb251da71b_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_27e07dd355b2b507af0afcfb251da71b_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_27e07dd355b2b507af0afcfb251da71b_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_27e07dd355b2b507af0afcfb251da71b_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bcbe8b723a7d6c75d4fca40d74101638_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bcbe8b723a7d6c75d4fca40d74101638_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bcbe8b723a7d6c75d4fca40d74101638_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bcbe8b723a7d6c75d4fca40d74101638_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bcbe8b723a7d6c75d4fca40d74101638_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bcbe8b723a7d6c75d4fca40d74101638_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bef7c10c88afdc31e6188b532a3f163d_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bef7c10c88afdc31e6188b532a3f163d_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bef7c10c88afdc31e6188b532a3f163d_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bef7c10c88afdc31e6188b532a3f163d_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bef7c10c88afdc31e6188b532a3f163d_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bef7c10c88afdc31e6188b532a3f163d_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -109,39 +109,39 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_93ae5e77cc664f35ee0e3bb17b8b3936.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_93ae5e77cc664f35ee0e3bb17b8b3936.mp3",
     "title" : "Quoc Gia Khoi Nghiep - Dan Senor - sachnoi.cc - 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_27e07dd355b2b507af0afcfb251da71b_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_27e07dd355b2b507af0afcfb251da71b_1.mp3",
     "title" : "Quoc Gia Khoi Nghiep - Dan Senor - sachnoi.cc - 02 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_27e07dd355b2b507af0afcfb251da71b_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_27e07dd355b2b507af0afcfb251da71b_2.mp3",
     "title" : "Quoc Gia Khoi Nghiep - Dan Senor - sachnoi.cc - 02 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bcbe8b723a7d6c75d4fca40d74101638_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bcbe8b723a7d6c75d4fca40d74101638_1.mp3",
     "title" : "Quoc Gia Khoi Nghiep - Dan Senor - sachnoi.cc - 03 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bcbe8b723a7d6c75d4fca40d74101638_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bcbe8b723a7d6c75d4fca40d74101638_2.mp3",
     "title" : "Quoc Gia Khoi Nghiep - Dan Senor - sachnoi.cc - 03 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bcbe8b723a7d6c75d4fca40d74101638_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bcbe8b723a7d6c75d4fca40d74101638_3.mp3",
     "title" : "Quoc Gia Khoi Nghiep - Dan Senor - sachnoi.cc - 03 (3)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bef7c10c88afdc31e6188b532a3f163d_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bef7c10c88afdc31e6188b532a3f163d_1.mp3",
     "title" : "Quoc Gia Khoi Nghiep - Dan Senor - sachnoi.cc - 04 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bef7c10c88afdc31e6188b532a3f163d_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bef7c10c88afdc31e6188b532a3f163d_2.mp3",
     "title" : "Quoc Gia Khoi Nghiep - Dan Senor - sachnoi.cc - 04 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bef7c10c88afdc31e6188b532a3f163d_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_bbd2215baeeb86d26e69fd9741aa02e3_bef7c10c88afdc31e6188b532a3f163d_3.mp3",
     "title" : "Quoc Gia Khoi Nghiep - Dan Senor - sachnoi.cc - 04 (3)",
     "children" : [ ]
   } ],

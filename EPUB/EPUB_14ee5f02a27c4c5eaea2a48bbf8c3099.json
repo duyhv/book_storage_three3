@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_14ee5f02a27c4c5eaea2a48bbf8c3099.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_14ee5f02a27c4c5eaea2a48bbf8c3099.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_14ee5f02a27c4c5eaea2a48bbf8c3099.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_14ee5f02a27c4c5eaea2a48bbf8c3099.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_14ee5f02a27c4c5eaea2a48bbf8c3099_da84226fdddc73dbfabd20f242c0fa64.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_14ee5f02a27c4c5eaea2a48bbf8c3099_da84226fdddc73dbfabd20f242c0fa64.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_14ee5f02a27c4c5eaea2a48bbf8c3099_b94aec74308dfa8317c5688dc1104fe1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_14ee5f02a27c4c5eaea2a48bbf8c3099_b94aec74308dfa8317c5688dc1104fe1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_14ee5f02a27c4c5eaea2a48bbf8c3099_851efbf2557962b092cdfe08ed894e39.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_14ee5f02a27c4c5eaea2a48bbf8c3099_851efbf2557962b092cdfe08ed894e39.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_14ee5f02a27c4c5eaea2a48bbf8c3099_2a333fc8f8dfed0729bffc2c04bc6bd2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_14ee5f02a27c4c5eaea2a48bbf8c3099_2a333fc8f8dfed0729bffc2c04bc6bd2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_14ee5f02a27c4c5eaea2a48bbf8c3099_da84226fdddc73dbfabd20f242c0fa64.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_14ee5f02a27c4c5eaea2a48bbf8c3099_da84226fdddc73dbfabd20f242c0fa64.mp3",
     "title" : "Chương 1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_14ee5f02a27c4c5eaea2a48bbf8c3099_b94aec74308dfa8317c5688dc1104fe1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_14ee5f02a27c4c5eaea2a48bbf8c3099_b94aec74308dfa8317c5688dc1104fe1.mp3",
     "title" : "Chương 2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_14ee5f02a27c4c5eaea2a48bbf8c3099_851efbf2557962b092cdfe08ed894e39.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_14ee5f02a27c4c5eaea2a48bbf8c3099_851efbf2557962b092cdfe08ed894e39.mp3",
     "title" : "Chương 3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_14ee5f02a27c4c5eaea2a48bbf8c3099_2a333fc8f8dfed0729bffc2c04bc6bd2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_14ee5f02a27c4c5eaea2a48bbf8c3099_2a333fc8f8dfed0729bffc2c04bc6bd2.mp3",
     "title" : "Chương 4 (còn tiếp)",
     "children" : [ ]
   } ],

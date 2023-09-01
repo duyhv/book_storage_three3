@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_342b7c7aad4ca3bba52a14525a120fef.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_342b7c7aad4ca3bba52a14525a120fef.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_342b7c7aad4ca3bba52a14525a120fef.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_342b7c7aad4ca3bba52a14525a120fef.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_b29f0bb038bb12f598c0a6ae1f3009eb_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_b29f0bb038bb12f598c0a6ae1f3009eb_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_b29f0bb038bb12f598c0a6ae1f3009eb_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_b29f0bb038bb12f598c0a6ae1f3009eb_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_1232492d83035f6ba25e2625c5e47f04.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_1232492d83035f6ba25e2625c5e47f04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1950,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_2d76df384caab19e5ee70dc57490c228_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_2d76df384caab19e5ee70dc57490c228_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_2d76df384caab19e5ee70dc57490c228_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_2d76df384caab19e5ee70dc57490c228_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_c48b39fe684e7d52744acd4aa9dca458.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_c48b39fe684e7d52744acd4aa9dca458.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1885,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_022ca13de2361bb1b3c1bd12b4d3ac45_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_022ca13de2361bb1b3c1bd12b4d3ac45_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_022ca13de2361bb1b3c1bd12b4d3ac45_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_022ca13de2361bb1b3c1bd12b4d3ac45_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_a7e8a9e0d25282dc39b29fa4be753119_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_a7e8a9e0d25282dc39b29fa4be753119_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_a7e8a9e0d25282dc39b29fa4be753119_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_a7e8a9e0d25282dc39b29fa4be753119_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -117,43 +117,43 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_b29f0bb038bb12f598c0a6ae1f3009eb_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_b29f0bb038bb12f598c0a6ae1f3009eb_1.mp3",
     "title" : "01 Truyện Ma Kinh Dị- Bức Tranh Sơn Dầu - Bách Quỷ Tịch - Tuyển Tập Audio Truyện Ma Kinh Dị Ngắn Hay (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_b29f0bb038bb12f598c0a6ae1f3009eb_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_b29f0bb038bb12f598c0a6ae1f3009eb_2.mp3",
     "title" : "01 Truyện Ma Kinh Dị- Bức Tranh Sơn Dầu - Bách Quỷ Tịch - Tuyển Tập Audio Truyện Ma Kinh Dị Ngắn Hay (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_1232492d83035f6ba25e2625c5e47f04.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_1232492d83035f6ba25e2625c5e47f04.mp3",
     "title" : "02 Truyện Ma Kinh Dị- Ký Túc Xá - Bách Quỷ Tịch - List Tuyển Tập Đọc Truyện Ma Kinh Dị Ngắn Hay...",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_2d76df384caab19e5ee70dc57490c228_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_2d76df384caab19e5ee70dc57490c228_1.mp3",
     "title" : "03 Truyện Ma Kinh Dị- Cao Tốc Kinh Hoàng- Bách Quỷ Tịch - Tuyển Tập Đọc Truyện Ma Kinh Dị Ngắn Hay (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_2d76df384caab19e5ee70dc57490c228_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_2d76df384caab19e5ee70dc57490c228_2.mp3",
     "title" : "03 Truyện Ma Kinh Dị- Cao Tốc Kinh Hoàng- Bách Quỷ Tịch - Tuyển Tập Đọc Truyện Ma Kinh Dị Ngắn Hay (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_c48b39fe684e7d52744acd4aa9dca458.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_c48b39fe684e7d52744acd4aa9dca458.mp3",
     "title" : "04 Truyện Ma Kinh Dị- Hàng xóm- Bách Quỷ Tịch - Tuyển Tập Audio Đọc Truyện Ma Kinh Dị Ngắn Hay",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_022ca13de2361bb1b3c1bd12b4d3ac45_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_022ca13de2361bb1b3c1bd12b4d3ac45_1.mp3",
     "title" : "05 Truyện Ma Kinh Dị Trung Quốc- Cô Dâu Ma - Bách Quỷ Tịch - Tuyển Tập Audio Đọc Truyện Ma Kinh Dị... (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_022ca13de2361bb1b3c1bd12b4d3ac45_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_022ca13de2361bb1b3c1bd12b4d3ac45_2.mp3",
     "title" : "05 Truyện Ma Kinh Dị Trung Quốc- Cô Dâu Ma - Bách Quỷ Tịch - Tuyển Tập Audio Đọc Truyện Ma Kinh Dị... (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_a7e8a9e0d25282dc39b29fa4be753119_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_a7e8a9e0d25282dc39b29fa4be753119_1.mp3",
     "title" : "06 Truyện Ma Kinh Dị- Bạn Học Cũ - Bách Quỷ Tịch - Tuyển Tập Audio Đọc Truyện Ma Kinh Dị Ngắn Hay (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_a7e8a9e0d25282dc39b29fa4be753119_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_a7e8a9e0d25282dc39b29fa4be753119_2.mp3",
     "title" : "06 Truyện Ma Kinh Dị- Bạn Học Cũ - Bách Quỷ Tịch - Tuyển Tập Audio Đọc Truyện Ma Kinh Dị Ngắn Hay (2)",
     "children" : [ ]
   } ],

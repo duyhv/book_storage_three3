@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_82883415a46c5c45f892a28fef0770a4.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_82883415a46c5c45f892a28fef0770a4.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_82883415a46c5c45f892a28fef0770a4.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_82883415a46c5c45f892a28fef0770a4.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_82883415a46c5c45f892a28fef0770a4_1b7fe719628174ae89376a95618f4908_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_82883415a46c5c45f892a28fef0770a4_1b7fe719628174ae89376a95618f4908_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_82883415a46c5c45f892a28fef0770a4_1b7fe719628174ae89376a95618f4908_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_82883415a46c5c45f892a28fef0770a4_1b7fe719628174ae89376a95618f4908_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_82883415a46c5c45f892a28fef0770a4_1b7fe719628174ae89376a95618f4908_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_82883415a46c5c45f892a28fef0770a4_1b7fe719628174ae89376a95618f4908_1.mp3",
     "title" : "hai-buoi (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_82883415a46c5c45f892a28fef0770a4_1b7fe719628174ae89376a95618f4908_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_82883415a46c5c45f892a28fef0770a4_1b7fe719628174ae89376a95618f4908_2.mp3",
     "title" : "hai-buoi (2)",
     "children" : [ ]
   } ],

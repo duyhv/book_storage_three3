@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_306e80137f1f8713e111cfd957e34f1f.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_306e80137f1f8713e111cfd957e34f1f.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_306e80137f1f8713e111cfd957e34f1f.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_306e80137f1f8713e111cfd957e34f1f.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_f4773424169ce66e3c931d647e93d28c_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_f4773424169ce66e3c931d647e93d28c_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_f4773424169ce66e3c931d647e93d28c_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_f4773424169ce66e3c931d647e93d28c_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_ccffcfb3ab142e98ef039425a10cd010_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_ccffcfb3ab142e98ef039425a10cd010_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_ccffcfb3ab142e98ef039425a10cd010_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_ccffcfb3ab142e98ef039425a10cd010_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_f4773424169ce66e3c931d647e93d28c_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_f4773424169ce66e3c931d647e93d28c_1.mp3",
     "title" : "1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_f4773424169ce66e3c931d647e93d28c_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_f4773424169ce66e3c931d647e93d28c_2.mp3",
     "title" : "1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_ccffcfb3ab142e98ef039425a10cd010_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_ccffcfb3ab142e98ef039425a10cd010_1.mp3",
     "title" : "2 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_ccffcfb3ab142e98ef039425a10cd010_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_306e80137f1f8713e111cfd957e34f1f_ccffcfb3ab142e98ef039425a10cd010_2.mp3",
     "title" : "2 (2)",
     "children" : [ ]
   } ],

@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_cc428652d197f82ee7457ea3ed3eeb08.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_cc428652d197f82ee7457ea3ed3eeb08.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_cc428652d197f82ee7457ea3ed3eeb08.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_cc428652d197f82ee7457ea3ed3eeb08.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_14c34652a1dd6b291566939dc49f40da.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_14c34652a1dd6b291566939dc49f40da.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2838,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_0b39dca7f72ec4d436b65680a6471031.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_0b39dca7f72ec4d436b65680a6471031.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2147,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_760c38aa24d78116edaa75889515afe1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_760c38aa24d78116edaa75889515afe1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2890,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_ea09f0ef5515e00dfa7a07ea8a972ef5.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_ea09f0ef5515e00dfa7a07ea8a972ef5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2823,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_6df296ed905b7a269b09b33992c36c15.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_6df296ed905b7a269b09b33992c36c15.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2603,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_b7c9f304b344fe1a27d1bf8ba8295eb2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_b7c9f304b344fe1a27d1bf8ba8295eb2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2825,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_14c34652a1dd6b291566939dc49f40da.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_14c34652a1dd6b291566939dc49f40da.mp3",
     "title" : "HOA O TRONG LONG 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_0b39dca7f72ec4d436b65680a6471031.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_0b39dca7f72ec4d436b65680a6471031.mp3",
     "title" : "HOA O TRONG LONG 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_760c38aa24d78116edaa75889515afe1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_760c38aa24d78116edaa75889515afe1.mp3",
     "title" : "HOA O TRONG LONG 03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_ea09f0ef5515e00dfa7a07ea8a972ef5.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_ea09f0ef5515e00dfa7a07ea8a972ef5.mp3",
     "title" : "HOA O TRONG LONG 04",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_6df296ed905b7a269b09b33992c36c15.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_6df296ed905b7a269b09b33992c36c15.mp3",
     "title" : "HOA O TRONG LONG 05",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_b7c9f304b344fe1a27d1bf8ba8295eb2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_cc428652d197f82ee7457ea3ed3eeb08_b7c9f304b344fe1a27d1bf8ba8295eb2.mp3",
     "title" : "HOA O TRONG LONG 06",
     "children" : [ ]
   } ],
