@@ -1,0 +1,413 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/gien-atlantis_20923.html",
+    "title" : "Gien Atlantis",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "A. G. Riddle",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-08",
+    "duration" : 53136,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_224acd55ee09316586d4a8c8dae0db7e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_224acd55ee09316586d4a8c8dae0db7e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_e9890279889d76b505d04be4d497cdb6_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00001 Gene Atlantis (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_e9890279889d76b505d04be4d497cdb6_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00001 Gene Atlantis (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_9e05b3220813373d17ffe1a698916dc2_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00002 Gene Atlantis (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_9e05b3220813373d17ffe1a698916dc2_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00002 Gene Atlantis (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_020a4b39c4d4f954be1ad70c9178e87d_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00003 Gene Atlantis (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_020a4b39c4d4f954be1ad70c9178e87d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00003 Gene Atlantis (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_30f034fba32695824cf59aae4f2a7722_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00004 Gene Atlantis (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_30f034fba32695824cf59aae4f2a7722_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00004 Gene Atlantis (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_5c36bbf291e199979663ee40cf6d8e6f_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00005 Gene Atlantis (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_5c36bbf291e199979663ee40cf6d8e6f_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00005 Gene Atlantis (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_9fa304d2109b8576525ce65b85d85758_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00006 Gene Atlantis (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_9fa304d2109b8576525ce65b85d85758_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00006 Gene Atlantis (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_414ce8fe68dd6352152eb7c6adeebbca_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00007 Gene Atlantis (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_414ce8fe68dd6352152eb7c6adeebbca_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00007 Gene Atlantis (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_6407b52cb6334425df1f23c882c42cb9_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00008 Gene Atlantis (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_6407b52cb6334425df1f23c882c42cb9_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00008 Gene Atlantis (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_6407b52cb6334425df1f23c882c42cb9_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00008 Gene Atlantis (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_446e1a8c049cf3bc3ca3eb732241a76e_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00009 Gene Atlantis (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_446e1a8c049cf3bc3ca3eb732241a76e_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00009 Gene Atlantis (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_ae68d36bbac8376ed05539ec34bbf7af_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00010 Gene Atlantis (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_ae68d36bbac8376ed05539ec34bbf7af_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00010 Gene Atlantis (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_4db61f3cd1cfc9ca255050d6315de437_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00011 Gene Atlantis (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_4db61f3cd1cfc9ca255050d6315de437_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00011 Gene Atlantis (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_c6ab75dd34d15d5ea42a3b8bcff200d5_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00012 Gene Atlantis (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_c6ab75dd34d15d5ea42a3b8bcff200d5_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00012 Gene Atlantis (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_7b5a2c1a9bedf5f042a6cf3dfd25d5b9_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00013 Gene Atlantis (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_7b5a2c1a9bedf5f042a6cf3dfd25d5b9_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00013 Gene Atlantis (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_39c69cd8082e0ba6f32cb8d7f47b2dbf_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00014 Gene Atlantis (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_39c69cd8082e0ba6f32cb8d7f47b2dbf_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00014 Gene Atlantis (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_39c69cd8082e0ba6f32cb8d7f47b2dbf_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00014 Gene Atlantis (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_c92fe962efb12139bb7e5fb5b15151c4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1992,
+    "title" : "00015 Gene Atlantis",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_e9890279889d76b505d04be4d497cdb6_1.mp3",
+    "title" : "00001 Gene Atlantis (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_e9890279889d76b505d04be4d497cdb6_2.mp3",
+    "title" : "00001 Gene Atlantis (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_9e05b3220813373d17ffe1a698916dc2_1.mp3",
+    "title" : "00002 Gene Atlantis (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_9e05b3220813373d17ffe1a698916dc2_2.mp3",
+    "title" : "00002 Gene Atlantis (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_020a4b39c4d4f954be1ad70c9178e87d_1.mp3",
+    "title" : "00003 Gene Atlantis (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_020a4b39c4d4f954be1ad70c9178e87d_2.mp3",
+    "title" : "00003 Gene Atlantis (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_30f034fba32695824cf59aae4f2a7722_1.mp3",
+    "title" : "00004 Gene Atlantis (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_30f034fba32695824cf59aae4f2a7722_2.mp3",
+    "title" : "00004 Gene Atlantis (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_5c36bbf291e199979663ee40cf6d8e6f_1.mp3",
+    "title" : "00005 Gene Atlantis (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_5c36bbf291e199979663ee40cf6d8e6f_2.mp3",
+    "title" : "00005 Gene Atlantis (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_9fa304d2109b8576525ce65b85d85758_1.mp3",
+    "title" : "00006 Gene Atlantis (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_9fa304d2109b8576525ce65b85d85758_2.mp3",
+    "title" : "00006 Gene Atlantis (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_414ce8fe68dd6352152eb7c6adeebbca_1.mp3",
+    "title" : "00007 Gene Atlantis (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_414ce8fe68dd6352152eb7c6adeebbca_2.mp3",
+    "title" : "00007 Gene Atlantis (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_6407b52cb6334425df1f23c882c42cb9_1.mp3",
+    "title" : "00008 Gene Atlantis (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_6407b52cb6334425df1f23c882c42cb9_2.mp3",
+    "title" : "00008 Gene Atlantis (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_6407b52cb6334425df1f23c882c42cb9_3.mp3",
+    "title" : "00008 Gene Atlantis (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_446e1a8c049cf3bc3ca3eb732241a76e_1.mp3",
+    "title" : "00009 Gene Atlantis (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_446e1a8c049cf3bc3ca3eb732241a76e_2.mp3",
+    "title" : "00009 Gene Atlantis (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_ae68d36bbac8376ed05539ec34bbf7af_1.mp3",
+    "title" : "00010 Gene Atlantis (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_ae68d36bbac8376ed05539ec34bbf7af_2.mp3",
+    "title" : "00010 Gene Atlantis (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_4db61f3cd1cfc9ca255050d6315de437_1.mp3",
+    "title" : "00011 Gene Atlantis (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_4db61f3cd1cfc9ca255050d6315de437_2.mp3",
+    "title" : "00011 Gene Atlantis (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_c6ab75dd34d15d5ea42a3b8bcff200d5_1.mp3",
+    "title" : "00012 Gene Atlantis (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_c6ab75dd34d15d5ea42a3b8bcff200d5_2.mp3",
+    "title" : "00012 Gene Atlantis (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_7b5a2c1a9bedf5f042a6cf3dfd25d5b9_1.mp3",
+    "title" : "00013 Gene Atlantis (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_7b5a2c1a9bedf5f042a6cf3dfd25d5b9_2.mp3",
+    "title" : "00013 Gene Atlantis (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_39c69cd8082e0ba6f32cb8d7f47b2dbf_1.mp3",
+    "title" : "00014 Gene Atlantis (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_39c69cd8082e0ba6f32cb8d7f47b2dbf_2.mp3",
+    "title" : "00014 Gene Atlantis (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_39c69cd8082e0ba6f32cb8d7f47b2dbf_3.mp3",
+    "title" : "00014 Gene Atlantis (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_224acd55ee09316586d4a8c8dae0db7e_c92fe962efb12139bb7e5fb5b15151c4.mp3",
+    "title" : "00015 Gene Atlantis",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
