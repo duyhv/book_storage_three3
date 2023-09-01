@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/423-loi-vang-cua-phat_19620.html",
+    "title" : "423 Lời Vàng Của Phật",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhật Từ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-17",
+    "duration" : 5815,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_9cecf388b2b60223cfae8c3bd4d4803f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_9cecf388b2b60223cfae8c3bd4d4803f.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_9cecf388b2b60223cfae8c3bd4d4803f_d9625ebf0d9fc94a0e9ce5c4b66a760e_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "423-loi (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_9cecf388b2b60223cfae8c3bd4d4803f_d9625ebf0d9fc94a0e9ce5c4b66a760e_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "423-loi (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_9cecf388b2b60223cfae8c3bd4d4803f_d9625ebf0d9fc94a0e9ce5c4b66a760e_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "423-loi (3)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_9cecf388b2b60223cfae8c3bd4d4803f_d9625ebf0d9fc94a0e9ce5c4b66a760e_1.mp3",
+    "title" : "423-loi (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_9cecf388b2b60223cfae8c3bd4d4803f_d9625ebf0d9fc94a0e9ce5c4b66a760e_2.mp3",
+    "title" : "423-loi (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage3/main/AUDIO/AUDIO_9cecf388b2b60223cfae8c3bd4d4803f_d9625ebf0d9fc94a0e9ce5c4b66a760e_3.mp3",
+    "title" : "423-loi (3)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
