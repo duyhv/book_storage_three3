@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-28",
-    "duration" : 15083,
+    "published" : "2023-09-06",
+    "duration" : 18918,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,33 +26,25 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_342b7c7aad4ca3bba52a14525a120fef.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/EPUB/EPUB_342b7c7aad4ca3bba52a14525a120fef.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_342b7c7aad4ca3bba52a14525a120fef.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/IMAGE/IMAGE_342b7c7aad4ca3bba52a14525a120fef.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_b29f0bb038bb12f598c0a6ae1f3009eb_1.mp3",
+    "href" : "https://archive.org/download/05-truyen-ma-kinh-di-trung-quoc-co-dau-ma-bach-quy-tich-tuyen-tap-audio-doc-truyen-ma-kinh-di-hay/01_Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B-%20B%E1%BB%A9c%20Tranh%20S%C6%A1n%20D%E1%BA%A7u%20-%20B%C3%A1ch%20Qu%E1%BB%B7%20T%E1%BB%8Bch%20-%20Tuy%E1%BB%83n%20T%E1%BA%ADp%20Audio%20Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B%20Ng%E1%BA%AFn%20Hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "01 Truyện Ma Kinh Dị- Bức Tranh Sơn Dầu - Bách Quỷ Tịch - Tuyển Tập Audio Truyện Ma Kinh Dị Ngắn Hay (1)",
+    "duration" : 3175,
+    "title" : "01 Truyện Ma Kinh Dị- Bức Tranh Sơn Dầu - Bách Quỷ Tịch - Tuyển Tập Audio Truyện Ma Kinh Dị Ngắn Hay",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_b29f0bb038bb12f598c0a6ae1f3009eb_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "01 Truyện Ma Kinh Dị- Bức Tranh Sơn Dầu - Bách Quỷ Tịch - Tuyển Tập Audio Truyện Ma Kinh Dị Ngắn Hay (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_1232492d83035f6ba25e2625c5e47f04.mp3",
+    "href" : "https://archive.org/download/05-truyen-ma-kinh-di-trung-quoc-co-dau-ma-bach-quy-tich-tuyen-tap-audio-doc-truyen-ma-kinh-di-hay/02_Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B-%20K%C3%BD%20T%C3%BAc%20X%C3%A1%20-%20B%C3%A1ch%20Qu%E1%BB%B7%20T%E1%BB%8Bch%20-%20List%20Tuy%E1%BB%83n%20T%E1%BA%ADp%20%C4%90%E1%BB%8Dc%20Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B%20Ng%E1%BA%AFn%20Hay%20Audio.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1950,
@@ -60,23 +52,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_2d76df384caab19e5ee70dc57490c228_1.mp3",
+    "href" : "https://archive.org/download/05-truyen-ma-kinh-di-trung-quoc-co-dau-ma-bach-quy-tich-tuyen-tap-audio-doc-truyen-ma-kinh-di-hay/03_Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B-%20Cao%20T%E1%BB%91c%20Kinh%20Ho%C3%A0ng-%20B%C3%A1ch%20Qu%E1%BB%B7%20T%E1%BB%8Bch%20-%20Tuy%E1%BB%83n%20T%E1%BA%ADp%20%C4%90%E1%BB%8Dc%20Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B%20Ng%E1%BA%AFn%20Hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "03 Truyện Ma Kinh Dị- Cao Tốc Kinh Hoàng- Bách Quỷ Tịch - Tuyển Tập Đọc Truyện Ma Kinh Dị Ngắn Hay (1)",
+    "duration" : 2328,
+    "title" : "03 Truyện Ma Kinh Dị- Cao Tốc Kinh Hoàng- Bách Quỷ Tịch - Tuyển Tập Đọc Truyện Ma Kinh Dị Ngắn Hay",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_2d76df384caab19e5ee70dc57490c228_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "03 Truyện Ma Kinh Dị- Cao Tốc Kinh Hoàng- Bách Quỷ Tịch - Tuyển Tập Đọc Truyện Ma Kinh Dị Ngắn Hay (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_c48b39fe684e7d52744acd4aa9dca458.mp3",
+    "href" : "https://archive.org/download/05-truyen-ma-kinh-di-trung-quoc-co-dau-ma-bach-quy-tich-tuyen-tap-audio-doc-truyen-ma-kinh-di-hay/04_Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B-%20H%C3%A0ng%20x%C3%B3m-%20B%C3%A1ch%20Qu%E1%BB%B7%20T%E1%BB%8Bch%20-%20Tuy%E1%BB%83n%20T%E1%BA%ADp%20Audio%20%C4%90%E1%BB%8Dc%20Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B%20Ng%E1%BA%AFn%20Hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1885,
@@ -84,77 +68,45 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_022ca13de2361bb1b3c1bd12b4d3ac45_1.mp3",
+    "href" : "https://archive.org/download/05-truyen-ma-kinh-di-trung-quoc-co-dau-ma-bach-quy-tich-tuyen-tap-audio-doc-truyen-ma-kinh-di-hay/05_Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B%20Trung%20Qu%E1%BB%91c-%20C%C3%B4%20D%C3%A2u%20Ma%20-%20B%C3%A1ch%20Qu%E1%BB%B7%20T%E1%BB%8Bch%20-%20Tuy%E1%BB%83n%20T%E1%BA%ADp%20Audio%20%C4%90%E1%BB%8Dc%20Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B%20Hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "05 Truyện Ma Kinh Dị Trung Quốc- Cô Dâu Ma - Bách Quỷ Tịch - Tuyển Tập Audio Đọc Truyện Ma Kinh Dị... (1)",
+    "duration" : 3315,
+    "title" : "05 Truyện Ma Kinh Dị Trung Quốc- Cô Dâu Ma - Bách Quỷ Tịch - Tuyển Tập Audio Đọc Truyện Ma Kinh Dị...",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_022ca13de2361bb1b3c1bd12b4d3ac45_2.mp3",
+    "href" : "https://archive.org/download/05-truyen-ma-kinh-di-trung-quoc-co-dau-ma-bach-quy-tich-tuyen-tap-audio-doc-truyen-ma-kinh-di-hay/06_Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B-%20B%E1%BA%A1n%20H%E1%BB%8Dc%20C%C5%A9%20-%20B%C3%A1ch%20Qu%E1%BB%B7%20T%E1%BB%8Bch%20-%20Tuy%E1%BB%83n%20T%E1%BA%ADp%20Audio%20%C4%90%E1%BB%8Dc%20Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B%20Ng%E1%BA%AFn%20Hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "05 Truyện Ma Kinh Dị Trung Quốc- Cô Dâu Ma - Bách Quỷ Tịch - Tuyển Tập Audio Đọc Truyện Ma Kinh Dị... (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_a7e8a9e0d25282dc39b29fa4be753119_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "06 Truyện Ma Kinh Dị- Bạn Học Cũ - Bách Quỷ Tịch - Tuyển Tập Audio Đọc Truyện Ma Kinh Dị Ngắn Hay (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_a7e8a9e0d25282dc39b29fa4be753119_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "06 Truyện Ma Kinh Dị- Bạn Học Cũ - Bách Quỷ Tịch - Tuyển Tập Audio Đọc Truyện Ma Kinh Dị Ngắn Hay (2)",
+    "duration" : 2430,
+    "title" : "06 Truyện Ma Kinh Dị- Bạn Học Cũ - Bách Quỷ Tịch - Tuyển Tập Audio Đọc Truyện Ma Kinh Dị Ngắn Hay",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_b29f0bb038bb12f598c0a6ae1f3009eb_1.mp3",
-    "title" : "01 Truyện Ma Kinh Dị- Bức Tranh Sơn Dầu - Bách Quỷ Tịch - Tuyển Tập Audio Truyện Ma Kinh Dị Ngắn Hay (1)",
+    "href" : "https://archive.org/download/05-truyen-ma-kinh-di-trung-quoc-co-dau-ma-bach-quy-tich-tuyen-tap-audio-doc-truyen-ma-kinh-di-hay/01_Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B-%20B%E1%BB%A9c%20Tranh%20S%C6%A1n%20D%E1%BA%A7u%20-%20B%C3%A1ch%20Qu%E1%BB%B7%20T%E1%BB%8Bch%20-%20Tuy%E1%BB%83n%20T%E1%BA%ADp%20Audio%20Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B%20Ng%E1%BA%AFn%20Hay.mp3",
+    "title" : "01 Truyện Ma Kinh Dị- Bức Tranh Sơn Dầu - Bách Quỷ Tịch - Tuyển Tập Audio Truyện Ma Kinh Dị Ngắn Hay",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_b29f0bb038bb12f598c0a6ae1f3009eb_2.mp3",
-    "title" : "01 Truyện Ma Kinh Dị- Bức Tranh Sơn Dầu - Bách Quỷ Tịch - Tuyển Tập Audio Truyện Ma Kinh Dị Ngắn Hay (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_1232492d83035f6ba25e2625c5e47f04.mp3",
+    "href" : "https://archive.org/download/05-truyen-ma-kinh-di-trung-quoc-co-dau-ma-bach-quy-tich-tuyen-tap-audio-doc-truyen-ma-kinh-di-hay/02_Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B-%20K%C3%BD%20T%C3%BAc%20X%C3%A1%20-%20B%C3%A1ch%20Qu%E1%BB%B7%20T%E1%BB%8Bch%20-%20List%20Tuy%E1%BB%83n%20T%E1%BA%ADp%20%C4%90%E1%BB%8Dc%20Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B%20Ng%E1%BA%AFn%20Hay%20Audio.mp3",
     "title" : "02 Truyện Ma Kinh Dị- Ký Túc Xá - Bách Quỷ Tịch - List Tuyển Tập Đọc Truyện Ma Kinh Dị Ngắn Hay...",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_2d76df384caab19e5ee70dc57490c228_1.mp3",
-    "title" : "03 Truyện Ma Kinh Dị- Cao Tốc Kinh Hoàng- Bách Quỷ Tịch - Tuyển Tập Đọc Truyện Ma Kinh Dị Ngắn Hay (1)",
+    "href" : "https://archive.org/download/05-truyen-ma-kinh-di-trung-quoc-co-dau-ma-bach-quy-tich-tuyen-tap-audio-doc-truyen-ma-kinh-di-hay/03_Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B-%20Cao%20T%E1%BB%91c%20Kinh%20Ho%C3%A0ng-%20B%C3%A1ch%20Qu%E1%BB%B7%20T%E1%BB%8Bch%20-%20Tuy%E1%BB%83n%20T%E1%BA%ADp%20%C4%90%E1%BB%8Dc%20Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B%20Ng%E1%BA%AFn%20Hay.mp3",
+    "title" : "03 Truyện Ma Kinh Dị- Cao Tốc Kinh Hoàng- Bách Quỷ Tịch - Tuyển Tập Đọc Truyện Ma Kinh Dị Ngắn Hay",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_2d76df384caab19e5ee70dc57490c228_2.mp3",
-    "title" : "03 Truyện Ma Kinh Dị- Cao Tốc Kinh Hoàng- Bách Quỷ Tịch - Tuyển Tập Đọc Truyện Ma Kinh Dị Ngắn Hay (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_c48b39fe684e7d52744acd4aa9dca458.mp3",
+    "href" : "https://archive.org/download/05-truyen-ma-kinh-di-trung-quoc-co-dau-ma-bach-quy-tich-tuyen-tap-audio-doc-truyen-ma-kinh-di-hay/04_Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B-%20H%C3%A0ng%20x%C3%B3m-%20B%C3%A1ch%20Qu%E1%BB%B7%20T%E1%BB%8Bch%20-%20Tuy%E1%BB%83n%20T%E1%BA%ADp%20Audio%20%C4%90%E1%BB%8Dc%20Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B%20Ng%E1%BA%AFn%20Hay.mp3",
     "title" : "04 Truyện Ma Kinh Dị- Hàng xóm- Bách Quỷ Tịch - Tuyển Tập Audio Đọc Truyện Ma Kinh Dị Ngắn Hay",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_022ca13de2361bb1b3c1bd12b4d3ac45_1.mp3",
-    "title" : "05 Truyện Ma Kinh Dị Trung Quốc- Cô Dâu Ma - Bách Quỷ Tịch - Tuyển Tập Audio Đọc Truyện Ma Kinh Dị... (1)",
+    "href" : "https://archive.org/download/05-truyen-ma-kinh-di-trung-quoc-co-dau-ma-bach-quy-tich-tuyen-tap-audio-doc-truyen-ma-kinh-di-hay/05_Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B%20Trung%20Qu%E1%BB%91c-%20C%C3%B4%20D%C3%A2u%20Ma%20-%20B%C3%A1ch%20Qu%E1%BB%B7%20T%E1%BB%8Bch%20-%20Tuy%E1%BB%83n%20T%E1%BA%ADp%20Audio%20%C4%90%E1%BB%8Dc%20Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B%20Hay.mp3",
+    "title" : "05 Truyện Ma Kinh Dị Trung Quốc- Cô Dâu Ma - Bách Quỷ Tịch - Tuyển Tập Audio Đọc Truyện Ma Kinh Dị...",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_022ca13de2361bb1b3c1bd12b4d3ac45_2.mp3",
-    "title" : "05 Truyện Ma Kinh Dị Trung Quốc- Cô Dâu Ma - Bách Quỷ Tịch - Tuyển Tập Audio Đọc Truyện Ma Kinh Dị... (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_a7e8a9e0d25282dc39b29fa4be753119_1.mp3",
-    "title" : "06 Truyện Ma Kinh Dị- Bạn Học Cũ - Bách Quỷ Tịch - Tuyển Tập Audio Đọc Truyện Ma Kinh Dị Ngắn Hay (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_342b7c7aad4ca3bba52a14525a120fef_a7e8a9e0d25282dc39b29fa4be753119_2.mp3",
-    "title" : "06 Truyện Ma Kinh Dị- Bạn Học Cũ - Bách Quỷ Tịch - Tuyển Tập Audio Đọc Truyện Ma Kinh Dị Ngắn Hay (2)",
+    "href" : "https://archive.org/download/05-truyen-ma-kinh-di-trung-quoc-co-dau-ma-bach-quy-tich-tuyen-tap-audio-doc-truyen-ma-kinh-di-hay/06_Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B-%20B%E1%BA%A1n%20H%E1%BB%8Dc%20C%C5%A9%20-%20B%C3%A1ch%20Qu%E1%BB%B7%20T%E1%BB%8Bch%20-%20Tuy%E1%BB%83n%20T%E1%BA%ADp%20Audio%20%C4%90%E1%BB%8Dc%20Truy%E1%BB%87n%20Ma%20Kinh%20D%E1%BB%8B%20Ng%E1%BA%AFn%20Hay.mp3",
+    "title" : "06 Truyện Ma Kinh Dị- Bạn Học Cũ - Bách Quỷ Tịch - Tuyển Tập Audio Đọc Truyện Ma Kinh Dị Ngắn Hay",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-12",
+    "published" : "2023-09-06",
     "duration" : 3643,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,75 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_34ded45b5c720f9e42f477910f54c437.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/EPUB/EPUB_34ded45b5c720f9e42f477910f54c437.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_34ded45b5c720f9e42f477910f54c437.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/IMAGE/IMAGE_34ded45b5c720f9e42f477910f54c437.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_34ded45b5c720f9e42f477910f54c437_ddc3c1ad6115a4d73101addfb413ea0d_1.mp3",
+    "href" : "https://archive.org/download/thao-tung-tam-ly-tinh-hoa-sach-noi/thao-tung-tam-ly-tinh-hoa-sach-noi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Trọn bộ (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_34ded45b5c720f9e42f477910f54c437_ddc3c1ad6115a4d73101addfb413ea0d_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Trọn bộ (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_34ded45b5c720f9e42f477910f54c437_ddc3c1ad6115a4d73101addfb413ea0d_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Trọn bộ (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_34ded45b5c720f9e42f477910f54c437_ddc3c1ad6115a4d73101addfb413ea0d_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Trọn bộ (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_34ded45b5c720f9e42f477910f54c437_ddc3c1ad6115a4d73101addfb413ea0d_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Trọn bộ (5)",
+    "duration" : 3643,
+    "title" : "Trọn bộ",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_34ded45b5c720f9e42f477910f54c437_ddc3c1ad6115a4d73101addfb413ea0d_1.mp3",
-    "title" : "Trọn bộ (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_34ded45b5c720f9e42f477910f54c437_ddc3c1ad6115a4d73101addfb413ea0d_2.mp3",
-    "title" : "Trọn bộ (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_34ded45b5c720f9e42f477910f54c437_ddc3c1ad6115a4d73101addfb413ea0d_3.mp3",
-    "title" : "Trọn bộ (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_34ded45b5c720f9e42f477910f54c437_ddc3c1ad6115a4d73101addfb413ea0d_4.mp3",
-    "title" : "Trọn bộ (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_34ded45b5c720f9e42f477910f54c437_ddc3c1ad6115a4d73101addfb413ea0d_5.mp3",
-    "title" : "Trọn bộ (5)",
+    "href" : "https://archive.org/download/thao-tung-tam-ly-tinh-hoa-sach-noi/thao-tung-tam-ly-tinh-hoa-sach-noi.mp3",
+    "title" : "Trọn bộ",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

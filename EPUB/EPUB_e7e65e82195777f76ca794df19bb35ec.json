@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-21",
+    "published" : "2023-09-06",
     "duration" : 10614,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,87 +26,39 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_e7e65e82195777f76ca794df19bb35ec.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/EPUB/EPUB_e7e65e82195777f76ca794df19bb35ec.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_e7e65e82195777f76ca794df19bb35ec.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/IMAGE/IMAGE_e7e65e82195777f76ca794df19bb35ec.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_e7e65e82195777f76ca794df19bb35ec_aceb2a6490138f9c3bd5daa357822d5f_1.mp3",
+    "href" : "https://archive.org/download/bo-chong-1/bo-chong-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bo-chong-1 (1)",
+    "duration" : 5798,
+    "title" : "bo-chong-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_e7e65e82195777f76ca794df19bb35ec_aceb2a6490138f9c3bd5daa357822d5f_2.mp3",
+    "href" : "https://archive.org/download/bo-chong-1/bo-chong-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bo-chong-1 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_e7e65e82195777f76ca794df19bb35ec_aceb2a6490138f9c3bd5daa357822d5f_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bo-chong-1 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_e7e65e82195777f76ca794df19bb35ec_933119b9f31295563603459ae12fa2d7_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bo-chong-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_e7e65e82195777f76ca794df19bb35ec_933119b9f31295563603459ae12fa2d7_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bo-chong-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_e7e65e82195777f76ca794df19bb35ec_933119b9f31295563603459ae12fa2d7_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bo-chong-2 (3)",
+    "duration" : 4816,
+    "title" : "bo-chong-2",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_e7e65e82195777f76ca794df19bb35ec_aceb2a6490138f9c3bd5daa357822d5f_1.mp3",
-    "title" : "bo-chong-1 (1)",
+    "href" : "https://archive.org/download/bo-chong-1/bo-chong-1.mp3",
+    "title" : "bo-chong-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_e7e65e82195777f76ca794df19bb35ec_aceb2a6490138f9c3bd5daa357822d5f_2.mp3",
-    "title" : "bo-chong-1 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_e7e65e82195777f76ca794df19bb35ec_aceb2a6490138f9c3bd5daa357822d5f_3.mp3",
-    "title" : "bo-chong-1 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_e7e65e82195777f76ca794df19bb35ec_933119b9f31295563603459ae12fa2d7_1.mp3",
-    "title" : "bo-chong-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_e7e65e82195777f76ca794df19bb35ec_933119b9f31295563603459ae12fa2d7_2.mp3",
-    "title" : "bo-chong-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_e7e65e82195777f76ca794df19bb35ec_933119b9f31295563603459ae12fa2d7_3.mp3",
-    "title" : "bo-chong-2 (3)",
+    "href" : "https://archive.org/download/bo-chong-1/bo-chong-2.mp3",
+    "title" : "bo-chong-2",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

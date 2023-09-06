@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-29",
-    "duration" : 1998,
+    "published" : "2023-09-06",
+    "duration" : 3996,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_6cfc6af39b32497292a5a9fc662bba3f.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/EPUB/EPUB_6cfc6af39b32497292a5a9fc662bba3f.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_6cfc6af39b32497292a5a9fc662bba3f.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/IMAGE/IMAGE_6cfc6af39b32497292a5a9fc662bba3f.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6cfc6af39b32497292a5a9fc662bba3f_656e081816e5979068f3706d142a1926.mp3",
+    "href" : "https://archive.org/download/la-ng-le-sa-pa-nguye-n-tha-nh-long-va-n-ho-c-ho-c-duo-ng-he-m-radio-online-audio-converter.com/L%E1%BA%B6NG%20L%E1%BA%BC%20SA%20PA%20-%20NGUY%E1%BB%84N%20TH%C3%80NH%20LONG%20-%20V%C4%82N%20H%E1%BB%8CC%20H%E1%BB%8CC%20%C4%90%C6%AF%E1%BB%9CNG%20-%20H%E1%BA%BAM%20RADIO%20%28online-audio-converter.com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1998,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6cfc6af39b32497292a5a9fc662bba3f_656e081816e5979068f3706d142a1926.mp3",
+    "href" : "https://archive.org/download/la-ng-le-sa-pa-nguye-n-tha-nh-long-va-n-ho-c-ho-c-duo-ng-he-m-radio-online-audio-converter.com/L%E1%BA%B6NG%20L%E1%BA%BC%20SA%20PA%20-%20NGUY%E1%BB%84N%20TH%C3%80NH%20LONG%20-%20V%C4%82N%20H%E1%BB%8CC%20H%E1%BB%8CC%20%C4%90%C6%AF%E1%BB%9CNG%20-%20H%E1%BA%BAM%20RADIO%20%28online-audio-converter.com%29.mp3",
     "title" : "868255133662543",
     "children" : [ ]
   } ],

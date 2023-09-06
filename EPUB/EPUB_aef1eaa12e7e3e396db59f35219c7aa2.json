@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
-    "duration" : 71524,
+    "published" : "2023-09-06",
+    "duration" : 79556,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,145 +26,41 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_aef1eaa12e7e3e396db59f35219c7aa2.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/EPUB/EPUB_aef1eaa12e7e3e396db59f35219c7aa2.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_aef1eaa12e7e3e396db59f35219c7aa2.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/IMAGE/IMAGE_aef1eaa12e7e3e396db59f35219c7aa2.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_575ba4607c9f1f687e8ca3b826554a07_1.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-ho-so-mat-dinh-doc-lap/1.H%E1%BB%93-S%C6%A1-M%E1%BA%ADt-Dinh-%C4%90%E1%BB%99c-L%E1%BA%ADp_t%C3%A1c-gi%E1%BA%A3-Nguy%E1%BB%85n-Ti%E1%BA%BFn-H%C6%B0ng-MC-Nguy%E1%BB%85n-Thu_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "1.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (1)",
+    "duration" : 9408,
+    "title" : "1.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_575ba4607c9f1f687e8ca3b826554a07_2.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-ho-so-mat-dinh-doc-lap/2.H%E1%BB%93-S%C6%A1-M%E1%BA%ADt-Dinh-%C4%90%E1%BB%99c-L%E1%BA%ADp_t%C3%A1c-gi%E1%BA%A3-Nguy%E1%BB%85n-Ti%E1%BA%BFn-H%C6%B0ng-MC-Nguy%E1%BB%85n-Thu_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "1.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (2)",
+    "duration" : 8847,
+    "title" : "2.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_575ba4607c9f1f687e8ca3b826554a07_3.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-ho-so-mat-dinh-doc-lap/3.H%E1%BB%93-S%C6%A1-M%E1%BA%ADt-Dinh-%C4%90%E1%BB%99c-L%E1%BA%ADp_t%C3%A1c-gi%E1%BA%A3-Nguy%E1%BB%85n-Ti%E1%BA%BFn-H%C6%B0ng-MC-Nguy%E1%BB%85n-Thu_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "1.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (3)",
+    "duration" : 9109,
+    "title" : "3.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_575ba4607c9f1f687e8ca3b826554a07_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "1.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_575ba4607c9f1f687e8ca3b826554a07_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "1.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_5cfa8e387829189fe257a974d57471d0_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "2.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_5cfa8e387829189fe257a974d57471d0_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "2.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_5cfa8e387829189fe257a974d57471d0_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "2.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_5cfa8e387829189fe257a974d57471d0_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "2.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_5cfa8e387829189fe257a974d57471d0_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "2.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_6e8a358a0cec1bdb50ff6189be9e9df2_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "3.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_6e8a358a0cec1bdb50ff6189be9e9df2_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "3.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_6e8a358a0cec1bdb50ff6189be9e9df2_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "3.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_6e8a358a0cec1bdb50ff6189be9e9df2_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "3.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_6e8a358a0cec1bdb50ff6189be9e9df2_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "3.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_6e8a358a0cec1bdb50ff6189be9e9df2_6.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "3.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (6)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_bcc4099e710a7a64aab2e4419c613419.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-ho-so-mat-dinh-doc-lap/4.H%E1%BB%93-S%C6%A1-M%E1%BA%ADt-Dinh-%C4%90%E1%BB%99c-L%E1%BA%ADp_t%C3%A1c-gi%E1%BA%A3-Nguy%E1%BB%85n-Ti%E1%BA%BFn-H%C6%B0ng-MC-Nguy%E1%BB%85n-Thu_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 8032,
@@ -172,217 +68,69 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_1dbd3298750af1cc020613a0358c22ee_1.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-ho-so-mat-dinh-doc-lap/5.H%E1%BB%93-S%C6%A1-M%E1%BA%ADt-Dinh-%C4%90%E1%BB%99c-L%E1%BA%ADp_t%C3%A1c-gi%E1%BA%A3-Nguy%E1%BB%85n-Ti%E1%BA%BFn-H%C6%B0ng-MC-Nguy%E1%BB%85n-Thu_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "5.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (1)",
+    "duration" : 7938,
+    "title" : "5.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_1dbd3298750af1cc020613a0358c22ee_2.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-ho-so-mat-dinh-doc-lap/6.H%E1%BB%93-S%C6%A1-M%E1%BA%ADt-Dinh-%C4%90%E1%BB%99c-L%E1%BA%ADp_t%C3%A1c-gi%E1%BA%A3-Nguy%E1%BB%85n-Ti%E1%BA%BFn-H%C6%B0ng-MC-Nguy%E1%BB%85n-Thu_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "5.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (2)",
+    "duration" : 9568,
+    "title" : "6.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_7bc6b34bc3946d9500bd5273504c52b2_1.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-ho-so-mat-dinh-doc-lap/7.H%E1%BB%93-S%C6%A1-M%E1%BA%ADt-Dinh-%C4%90%E1%BB%99c-L%E1%BA%ADp_t%C3%A1c-gi%E1%BA%A3-Nguy%E1%BB%85n-Ti%E1%BA%BFn-H%C6%B0ng-MC-Nguy%E1%BB%85n-Thu_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "6.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (1)",
+    "duration" : 10692,
+    "title" : "7.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_7bc6b34bc3946d9500bd5273504c52b2_2.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-ho-so-mat-dinh-doc-lap/8.H%E1%BB%93-S%C6%A1-M%E1%BA%ADt-Dinh-%C4%90%E1%BB%99c-L%E1%BA%ADp_t%C3%A1c-gi%E1%BA%A3-Nguy%E1%BB%85n-Ti%E1%BA%BFn-H%C6%B0ng-MC-Nguy%E1%BB%85n-Thu_%28KenhSachNoi.Com%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "6.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_7bc6b34bc3946d9500bd5273504c52b2_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "6.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_0c4f868f7a60aa6c98eb364e13fe554a_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "7.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_0c4f868f7a60aa6c98eb364e13fe554a_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "7.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_0c4f868f7a60aa6c98eb364e13fe554a_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "7.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_0c4f868f7a60aa6c98eb364e13fe554a_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "7.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_2b13fd7a7834987db00feae61f09fea3_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "8.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_2b13fd7a7834987db00feae61f09fea3_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "8.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_2b13fd7a7834987db00feae61f09fea3_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "8.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (3)",
+    "duration" : 7930,
+    "title" : "8.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_575ba4607c9f1f687e8ca3b826554a07_1.mp3",
-    "title" : "1.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (1)",
+    "href" : "https://archive.org/download/kenhsachnoi.com-ho-so-mat-dinh-doc-lap/1.H%E1%BB%93-S%C6%A1-M%E1%BA%ADt-Dinh-%C4%90%E1%BB%99c-L%E1%BA%ADp_t%C3%A1c-gi%E1%BA%A3-Nguy%E1%BB%85n-Ti%E1%BA%BFn-H%C6%B0ng-MC-Nguy%E1%BB%85n-Thu_%28KenhSachNoi.Com%29.mp3",
+    "title" : "1.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_575ba4607c9f1f687e8ca3b826554a07_2.mp3",
-    "title" : "1.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (2)",
+    "href" : "https://archive.org/download/kenhsachnoi.com-ho-so-mat-dinh-doc-lap/2.H%E1%BB%93-S%C6%A1-M%E1%BA%ADt-Dinh-%C4%90%E1%BB%99c-L%E1%BA%ADp_t%C3%A1c-gi%E1%BA%A3-Nguy%E1%BB%85n-Ti%E1%BA%BFn-H%C6%B0ng-MC-Nguy%E1%BB%85n-Thu_%28KenhSachNoi.Com%29.mp3",
+    "title" : "2.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_575ba4607c9f1f687e8ca3b826554a07_3.mp3",
-    "title" : "1.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (3)",
+    "href" : "https://archive.org/download/kenhsachnoi.com-ho-so-mat-dinh-doc-lap/3.H%E1%BB%93-S%C6%A1-M%E1%BA%ADt-Dinh-%C4%90%E1%BB%99c-L%E1%BA%ADp_t%C3%A1c-gi%E1%BA%A3-Nguy%E1%BB%85n-Ti%E1%BA%BFn-H%C6%B0ng-MC-Nguy%E1%BB%85n-Thu_%28KenhSachNoi.Com%29.mp3",
+    "title" : "3.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_575ba4607c9f1f687e8ca3b826554a07_4.mp3",
-    "title" : "1.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_575ba4607c9f1f687e8ca3b826554a07_5.mp3",
-    "title" : "1.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_5cfa8e387829189fe257a974d57471d0_1.mp3",
-    "title" : "2.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_5cfa8e387829189fe257a974d57471d0_2.mp3",
-    "title" : "2.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_5cfa8e387829189fe257a974d57471d0_3.mp3",
-    "title" : "2.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_5cfa8e387829189fe257a974d57471d0_4.mp3",
-    "title" : "2.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_5cfa8e387829189fe257a974d57471d0_5.mp3",
-    "title" : "2.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_6e8a358a0cec1bdb50ff6189be9e9df2_1.mp3",
-    "title" : "3.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_6e8a358a0cec1bdb50ff6189be9e9df2_2.mp3",
-    "title" : "3.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_6e8a358a0cec1bdb50ff6189be9e9df2_3.mp3",
-    "title" : "3.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_6e8a358a0cec1bdb50ff6189be9e9df2_4.mp3",
-    "title" : "3.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_6e8a358a0cec1bdb50ff6189be9e9df2_5.mp3",
-    "title" : "3.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_6e8a358a0cec1bdb50ff6189be9e9df2_6.mp3",
-    "title" : "3.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (6)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_bcc4099e710a7a64aab2e4419c613419.mp3",
+    "href" : "https://archive.org/download/kenhsachnoi.com-ho-so-mat-dinh-doc-lap/4.H%E1%BB%93-S%C6%A1-M%E1%BA%ADt-Dinh-%C4%90%E1%BB%99c-L%E1%BA%ADp_t%C3%A1c-gi%E1%BA%A3-Nguy%E1%BB%85n-Ti%E1%BA%BFn-H%C6%B0ng-MC-Nguy%E1%BB%85n-Thu_%28KenhSachNoi.Com%29.mp3",
     "title" : "4.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_1dbd3298750af1cc020613a0358c22ee_1.mp3",
-    "title" : "5.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (1)",
+    "href" : "https://archive.org/download/kenhsachnoi.com-ho-so-mat-dinh-doc-lap/5.H%E1%BB%93-S%C6%A1-M%E1%BA%ADt-Dinh-%C4%90%E1%BB%99c-L%E1%BA%ADp_t%C3%A1c-gi%E1%BA%A3-Nguy%E1%BB%85n-Ti%E1%BA%BFn-H%C6%B0ng-MC-Nguy%E1%BB%85n-Thu_%28KenhSachNoi.Com%29.mp3",
+    "title" : "5.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_1dbd3298750af1cc020613a0358c22ee_2.mp3",
-    "title" : "5.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (2)",
+    "href" : "https://archive.org/download/kenhsachnoi.com-ho-so-mat-dinh-doc-lap/6.H%E1%BB%93-S%C6%A1-M%E1%BA%ADt-Dinh-%C4%90%E1%BB%99c-L%E1%BA%ADp_t%C3%A1c-gi%E1%BA%A3-Nguy%E1%BB%85n-Ti%E1%BA%BFn-H%C6%B0ng-MC-Nguy%E1%BB%85n-Thu_%28KenhSachNoi.Com%29.mp3",
+    "title" : "6.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_7bc6b34bc3946d9500bd5273504c52b2_1.mp3",
-    "title" : "6.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (1)",
+    "href" : "https://archive.org/download/kenhsachnoi.com-ho-so-mat-dinh-doc-lap/7.H%E1%BB%93-S%C6%A1-M%E1%BA%ADt-Dinh-%C4%90%E1%BB%99c-L%E1%BA%ADp_t%C3%A1c-gi%E1%BA%A3-Nguy%E1%BB%85n-Ti%E1%BA%BFn-H%C6%B0ng-MC-Nguy%E1%BB%85n-Thu_%28KenhSachNoi.Com%29.mp3",
+    "title" : "7.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_7bc6b34bc3946d9500bd5273504c52b2_2.mp3",
-    "title" : "6.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_7bc6b34bc3946d9500bd5273504c52b2_3.mp3",
-    "title" : "6.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_0c4f868f7a60aa6c98eb364e13fe554a_1.mp3",
-    "title" : "7.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_0c4f868f7a60aa6c98eb364e13fe554a_2.mp3",
-    "title" : "7.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_0c4f868f7a60aa6c98eb364e13fe554a_3.mp3",
-    "title" : "7.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_0c4f868f7a60aa6c98eb364e13fe554a_4.mp3",
-    "title" : "7.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_2b13fd7a7834987db00feae61f09fea3_1.mp3",
-    "title" : "8.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_2b13fd7a7834987db00feae61f09fea3_2.mp3",
-    "title" : "8.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_aef1eaa12e7e3e396db59f35219c7aa2_2b13fd7a7834987db00feae61f09fea3_3.mp3",
-    "title" : "8.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com) (3)",
+    "href" : "https://archive.org/download/kenhsachnoi.com-ho-so-mat-dinh-doc-lap/8.H%E1%BB%93-S%C6%A1-M%E1%BA%ADt-Dinh-%C4%90%E1%BB%99c-L%E1%BA%ADp_t%C3%A1c-gi%E1%BA%A3-Nguy%E1%BB%85n-Ti%E1%BA%BFn-H%C6%B0ng-MC-Nguy%E1%BB%85n-Thu_%28KenhSachNoi.Com%29.mp3",
+    "title" : "8.Hồ-Sơ-Mật-Dinh-Độc-Lập tác-giả-Nguyễn-Tiến-Hưng-MC-Nguyễn-Thu (KenhSachNoi.Com)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

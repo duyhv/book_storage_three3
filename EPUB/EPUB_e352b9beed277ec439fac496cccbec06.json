@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-26",
-    "duration" : 7154,
+    "published" : "2023-09-06",
+    "duration" : 14308,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_e352b9beed277ec439fac496cccbec06.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/EPUB/EPUB_e352b9beed277ec439fac496cccbec06.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_e352b9beed277ec439fac496cccbec06.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/IMAGE/IMAGE_e352b9beed277ec439fac496cccbec06.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_e352b9beed277ec439fac496cccbec06_5ca26baf802b25958d07a27f48194317.mp3",
+    "href" : "https://archive.org/download/hon-buom-mo-tien-sachnoiviet/Hon-Buom-Mo-Tien-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1773,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_e352b9beed277ec439fac496cccbec06_dd113d505fdbfc1f5b5e0d2be3bd0fb5.mp3",
+    "href" : "https://archive.org/download/hon-buom-mo-tien-sachnoiviet/Hon-Buom-Mo-Tien-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1516,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_e352b9beed277ec439fac496cccbec06_0d62e99957ea899454f5896faa9f7b81.mp3",
+    "href" : "https://archive.org/download/hon-buom-mo-tien-sachnoiviet/Hon-Buom-Mo-Tien-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2515,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_e352b9beed277ec439fac496cccbec06_8df1f98091b78167013911dc4c50cc63.mp3",
+    "href" : "https://archive.org/download/hon-buom-mo-tien-sachnoiviet/Hon-Buom-Mo-Tien-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1350,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_e352b9beed277ec439fac496cccbec06_5ca26baf802b25958d07a27f48194317.mp3",
+    "href" : "https://archive.org/download/hon-buom-mo-tien-sachnoiviet/Hon-Buom-Mo-Tien-01.mp3",
     "title" : "01. Hồn Bướm Mơ Tiên",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_e352b9beed277ec439fac496cccbec06_dd113d505fdbfc1f5b5e0d2be3bd0fb5.mp3",
+    "href" : "https://archive.org/download/hon-buom-mo-tien-sachnoiviet/Hon-Buom-Mo-Tien-02.mp3",
     "title" : "02. Hồn Bướm Mơ Tiên",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_e352b9beed277ec439fac496cccbec06_0d62e99957ea899454f5896faa9f7b81.mp3",
+    "href" : "https://archive.org/download/hon-buom-mo-tien-sachnoiviet/Hon-Buom-Mo-Tien-03.mp3",
     "title" : "03. Hồn Bướm Mơ Tiên",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_e352b9beed277ec439fac496cccbec06_8df1f98091b78167013911dc4c50cc63.mp3",
+    "href" : "https://archive.org/download/hon-buom-mo-tien-sachnoiviet/Hon-Buom-Mo-Tien-04.mp3",
     "title" : "04. Hồn Bướm Mơ Tiên (hết)",
     "children" : [ ]
   } ],

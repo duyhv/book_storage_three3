@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
+    "published" : "2023-09-06",
     "duration" : 3076,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,39 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_82883415a46c5c45f892a28fef0770a4.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/EPUB/EPUB_82883415a46c5c45f892a28fef0770a4.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_82883415a46c5c45f892a28fef0770a4.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/IMAGE/IMAGE_82883415a46c5c45f892a28fef0770a4.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_82883415a46c5c45f892a28fef0770a4_1b7fe719628174ae89376a95618f4908_1.mp3",
+    "href" : "https://archive.org/download/hai-buoi/hai-buoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hai-buoi (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_82883415a46c5c45f892a28fef0770a4_1b7fe719628174ae89376a95618f4908_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hai-buoi (2)",
+    "duration" : 3076,
+    "title" : "hai-buoi",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_82883415a46c5c45f892a28fef0770a4_1b7fe719628174ae89376a95618f4908_1.mp3",
-    "title" : "hai-buoi (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_82883415a46c5c45f892a28fef0770a4_1b7fe719628174ae89376a95618f4908_2.mp3",
-    "title" : "hai-buoi (2)",
+    "href" : "https://archive.org/download/hai-buoi/hai-buoi.mp3",
+    "title" : "hai-buoi",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

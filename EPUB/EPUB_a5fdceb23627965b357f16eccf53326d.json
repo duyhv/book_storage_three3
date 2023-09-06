@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-22",
-    "duration" : 7293,
+    "published" : "2023-09-06",
+    "duration" : 11433,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_a5fdceb23627965b357f16eccf53326d.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/EPUB/EPUB_a5fdceb23627965b357f16eccf53326d.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_a5fdceb23627965b357f16eccf53326d.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/IMAGE/IMAGE_a5fdceb23627965b357f16eccf53326d.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_a5fdceb23627965b357f16eccf53326d_4bf92d6950683b5e216f5f5002dc4f6c.mp3",
+    "href" : "https://archive.org/download/tu-duy-2/tu-duy-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2130,
@@ -44,23 +44,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_a5fdceb23627965b357f16eccf53326d_225b075787d6733d3e765e7d8f764b07_1.mp3",
+    "href" : "https://archive.org/download/tu-duy-2/tu-duy-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tu-duy-2 (1)",
+    "duration" : 3153,
+    "title" : "tu-duy-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_a5fdceb23627965b357f16eccf53326d_225b075787d6733d3e765e7d8f764b07_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tu-duy-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_a5fdceb23627965b357f16eccf53326d_4dcb751f1a5f59f7a1b8c2bb281b3183.mp3",
+    "href" : "https://archive.org/download/tu-duy-2/tu-duy-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2010,
@@ -69,19 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_a5fdceb23627965b357f16eccf53326d_4bf92d6950683b5e216f5f5002dc4f6c.mp3",
+    "href" : "https://archive.org/download/tu-duy-2/tu-duy-1.mp3",
     "title" : "tu-duy-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_a5fdceb23627965b357f16eccf53326d_225b075787d6733d3e765e7d8f764b07_1.mp3",
-    "title" : "tu-duy-2 (1)",
+    "href" : "https://archive.org/download/tu-duy-2/tu-duy-2.mp3",
+    "title" : "tu-duy-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_a5fdceb23627965b357f16eccf53326d_225b075787d6733d3e765e7d8f764b07_2.mp3",
-    "title" : "tu-duy-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_a5fdceb23627965b357f16eccf53326d_4dcb751f1a5f59f7a1b8c2bb281b3183.mp3",
+    "href" : "https://archive.org/download/tu-duy-2/tu-duy-3.mp3",
     "title" : "tu-duy-3",
     "children" : [ ]
   } ],

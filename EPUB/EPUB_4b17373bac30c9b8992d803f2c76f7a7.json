@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
-    "duration" : 37068,
+    "published" : "2023-09-06",
+    "duration" : 42696,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,65 +26,33 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_4b17373bac30c9b8992d803f2c76f7a7.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/EPUB/EPUB_4b17373bac30c9b8992d803f2c76f7a7.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_4b17373bac30c9b8992d803f2c76f7a7.png",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/IMAGE/IMAGE_4b17373bac30c9b8992d803f2c76f7a7.png",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_6b2ff4c588816c71f8c1a72df89c878d_1.mp3",
+    "href" : "https://archive.org/download/nhung-vu-an-ky-la-khi-tu-van-tam-ly.sna/01.C01C02C03C04_NhungVuAnKyLa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "01.C01C02C03C04 NhungVuAnKyLa (1)",
+    "duration" : 4770,
+    "title" : "01.C01C02C03C04 NhungVuAnKyLa",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_6b2ff4c588816c71f8c1a72df89c878d_2.mp3",
+    "href" : "https://archive.org/download/nhung-vu-an-ky-la-khi-tu-van-tam-ly.sna/02.C05C06C07_NhungVuAnKyLa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "01.C01C02C03C04 NhungVuAnKyLa (2)",
+    "duration" : 4754,
+    "title" : "02.C05C06C07 NhungVuAnKyLa",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_6b2ff4c588816c71f8c1a72df89c878d_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "01.C01C02C03C04 NhungVuAnKyLa (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_61be02d7a6c4a56012735eeca229eb95_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "02.C05C06C07 NhungVuAnKyLa (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_61be02d7a6c4a56012735eeca229eb95_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "02.C05C06C07 NhungVuAnKyLa (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_61be02d7a6c4a56012735eeca229eb95_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "02.C05C06C07 NhungVuAnKyLa (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_12d8daa97c7769c9a782582843fe6d60.mp3",
+    "href" : "https://archive.org/download/nhung-vu-an-ky-la-khi-tu-van-tam-ly.sna/03.C08C09_NhungVuAnKyLa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4199,
@@ -92,111 +60,47 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_19f66d004bbbf13807af239e7a9bc49b_1.mp3",
+    "href" : "https://archive.org/download/nhung-vu-an-ky-la-khi-tu-van-tam-ly.sna/04.C10C11C12_NhungVuAnKyLa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "04.C10C11C12 NhungVuAnKyLa (1)",
+    "duration" : 4349,
+    "title" : "04.C10C11C12 NhungVuAnKyLa",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_19f66d004bbbf13807af239e7a9bc49b_2.mp3",
+    "href" : "https://archive.org/download/nhung-vu-an-ky-la-khi-tu-van-tam-ly.sna/05.C13C14C15_NhungVuAnKyLa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "04.C10C11C12 NhungVuAnKyLa (2)",
+    "duration" : 4849,
+    "title" : "05.C13C14C15 NhungVuAnKyLa",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_06e27d3a1a36a648d193e8338c35da97_1.mp3",
+    "href" : "https://archive.org/download/nhung-vu-an-ky-la-khi-tu-van-tam-ly.sna/06.C16C17_NhungVuAnKyLa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "05.C13C14C15 NhungVuAnKyLa (1)",
+    "duration" : 4528,
+    "title" : "06.C16C17 NhungVuAnKyLa",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_06e27d3a1a36a648d193e8338c35da97_2.mp3",
+    "href" : "https://archive.org/download/nhung-vu-an-ky-la-khi-tu-van-tam-ly.sna/07.C18C19C20_NhungVuAnKyLa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "05.C13C14C15 NhungVuAnKyLa (2)",
+    "duration" : 3341,
+    "title" : "07.C18C19C20 NhungVuAnKyLa",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_06e27d3a1a36a648d193e8338c35da97_3.mp3",
+    "href" : "https://archive.org/download/nhung-vu-an-ky-la-khi-tu-van-tam-ly.sna/08.C21_NhungVuAnKyLa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "05.C13C14C15 NhungVuAnKyLa (3)",
+    "duration" : 4849,
+    "title" : "08.C21 NhungVuAnKyLa",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_00ab1c00da97394729a918a814853ccb_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "06.C16C17 NhungVuAnKyLa (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_00ab1c00da97394729a918a814853ccb_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "06.C16C17 NhungVuAnKyLa (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_00ab1c00da97394729a918a814853ccb_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "06.C16C17 NhungVuAnKyLa (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_bb77c11ce0031acb44b5fc8df2037d1f_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "07.C18C19C20 NhungVuAnKyLa (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_bb77c11ce0031acb44b5fc8df2037d1f_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "07.C18C19C20 NhungVuAnKyLa (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_36de4012d74272fdd2a1cbcbf9f8d0c5_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "08.C21 NhungVuAnKyLa (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_36de4012d74272fdd2a1cbcbf9f8d0c5_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "08.C21 NhungVuAnKyLa (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_36de4012d74272fdd2a1cbcbf9f8d0c5_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "08.C21 NhungVuAnKyLa (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_331dc3f25150c7e1e24088f9870208e8.mp3",
+    "href" : "https://archive.org/download/nhung-vu-an-ky-la-khi-tu-van-tam-ly.sna/09.C22_Het_NhungVuAnKyLa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1429,
@@ -205,87 +109,39 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_6b2ff4c588816c71f8c1a72df89c878d_1.mp3",
-    "title" : "01.C01C02C03C04 NhungVuAnKyLa (1)",
+    "href" : "https://archive.org/download/nhung-vu-an-ky-la-khi-tu-van-tam-ly.sna/01.C01C02C03C04_NhungVuAnKyLa.mp3",
+    "title" : "01.C01C02C03C04 NhungVuAnKyLa",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_6b2ff4c588816c71f8c1a72df89c878d_2.mp3",
-    "title" : "01.C01C02C03C04 NhungVuAnKyLa (2)",
+    "href" : "https://archive.org/download/nhung-vu-an-ky-la-khi-tu-van-tam-ly.sna/02.C05C06C07_NhungVuAnKyLa.mp3",
+    "title" : "02.C05C06C07 NhungVuAnKyLa",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_6b2ff4c588816c71f8c1a72df89c878d_3.mp3",
-    "title" : "01.C01C02C03C04 NhungVuAnKyLa (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_61be02d7a6c4a56012735eeca229eb95_1.mp3",
-    "title" : "02.C05C06C07 NhungVuAnKyLa (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_61be02d7a6c4a56012735eeca229eb95_2.mp3",
-    "title" : "02.C05C06C07 NhungVuAnKyLa (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_61be02d7a6c4a56012735eeca229eb95_3.mp3",
-    "title" : "02.C05C06C07 NhungVuAnKyLa (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_12d8daa97c7769c9a782582843fe6d60.mp3",
+    "href" : "https://archive.org/download/nhung-vu-an-ky-la-khi-tu-van-tam-ly.sna/03.C08C09_NhungVuAnKyLa.mp3",
     "title" : "03.C08C09 NhungVuAnKyLa",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_19f66d004bbbf13807af239e7a9bc49b_1.mp3",
-    "title" : "04.C10C11C12 NhungVuAnKyLa (1)",
+    "href" : "https://archive.org/download/nhung-vu-an-ky-la-khi-tu-van-tam-ly.sna/04.C10C11C12_NhungVuAnKyLa.mp3",
+    "title" : "04.C10C11C12 NhungVuAnKyLa",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_19f66d004bbbf13807af239e7a9bc49b_2.mp3",
-    "title" : "04.C10C11C12 NhungVuAnKyLa (2)",
+    "href" : "https://archive.org/download/nhung-vu-an-ky-la-khi-tu-van-tam-ly.sna/05.C13C14C15_NhungVuAnKyLa.mp3",
+    "title" : "05.C13C14C15 NhungVuAnKyLa",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_06e27d3a1a36a648d193e8338c35da97_1.mp3",
-    "title" : "05.C13C14C15 NhungVuAnKyLa (1)",
+    "href" : "https://archive.org/download/nhung-vu-an-ky-la-khi-tu-van-tam-ly.sna/06.C16C17_NhungVuAnKyLa.mp3",
+    "title" : "06.C16C17 NhungVuAnKyLa",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_06e27d3a1a36a648d193e8338c35da97_2.mp3",
-    "title" : "05.C13C14C15 NhungVuAnKyLa (2)",
+    "href" : "https://archive.org/download/nhung-vu-an-ky-la-khi-tu-van-tam-ly.sna/07.C18C19C20_NhungVuAnKyLa.mp3",
+    "title" : "07.C18C19C20 NhungVuAnKyLa",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_06e27d3a1a36a648d193e8338c35da97_3.mp3",
-    "title" : "05.C13C14C15 NhungVuAnKyLa (3)",
+    "href" : "https://archive.org/download/nhung-vu-an-ky-la-khi-tu-van-tam-ly.sna/08.C21_NhungVuAnKyLa.mp3",
+    "title" : "08.C21 NhungVuAnKyLa",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_00ab1c00da97394729a918a814853ccb_1.mp3",
-    "title" : "06.C16C17 NhungVuAnKyLa (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_00ab1c00da97394729a918a814853ccb_2.mp3",
-    "title" : "06.C16C17 NhungVuAnKyLa (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_00ab1c00da97394729a918a814853ccb_3.mp3",
-    "title" : "06.C16C17 NhungVuAnKyLa (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_bb77c11ce0031acb44b5fc8df2037d1f_1.mp3",
-    "title" : "07.C18C19C20 NhungVuAnKyLa (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_bb77c11ce0031acb44b5fc8df2037d1f_2.mp3",
-    "title" : "07.C18C19C20 NhungVuAnKyLa (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_36de4012d74272fdd2a1cbcbf9f8d0c5_1.mp3",
-    "title" : "08.C21 NhungVuAnKyLa (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_36de4012d74272fdd2a1cbcbf9f8d0c5_2.mp3",
-    "title" : "08.C21 NhungVuAnKyLa (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_36de4012d74272fdd2a1cbcbf9f8d0c5_3.mp3",
-    "title" : "08.C21 NhungVuAnKyLa (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_4b17373bac30c9b8992d803f2c76f7a7_331dc3f25150c7e1e24088f9870208e8.mp3",
+    "href" : "https://archive.org/download/nhung-vu-an-ky-la-khi-tu-van-tam-ly.sna/09.C22_Het_NhungVuAnKyLa.mp3",
     "title" : "09.C22 Het NhungVuAnKyLa",
     "children" : [ ]
   } ],

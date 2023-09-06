@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-08",
-    "duration" : 11194,
+    "published" : "2023-09-06",
+    "duration" : 22388,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_6bbb13a12b100f48368a75a98aeda509.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/EPUB/EPUB_6bbb13a12b100f48368a75a98aeda509.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_6bbb13a12b100f48368a75a98aeda509.png",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/IMAGE/IMAGE_6bbb13a12b100f48368a75a98aeda509.png",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_c270fc902d26f764708dc7867e391224.mp3",
+    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2762,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_6fe3dbc90787a3407a39c46ecb033db0.mp3",
+    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1677,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_da0dd115168f47321794aa3887da74ae.mp3",
+    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1057,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_a7be68812f4d7d1debc2bac1f5901ccb.mp3",
+    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1954,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_5cb6ef9eed7bf0c39799851535c08d6d.mp3",
+    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1605,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_5c5f34a9e136d9fa7c8ba8556a0c85d7.mp3",
+    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2139,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_c270fc902d26f764708dc7867e391224.mp3",
+    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_01.mp3",
     "title" : "KI VI NUI DEO 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_6fe3dbc90787a3407a39c46ecb033db0.mp3",
+    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_02.mp3",
     "title" : "KI VI NUI DEO 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_da0dd115168f47321794aa3887da74ae.mp3",
+    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_03.mp3",
     "title" : "KI VI NUI DEO 03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_a7be68812f4d7d1debc2bac1f5901ccb.mp3",
+    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_04.mp3",
     "title" : "KI VI NUI DEO 04",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_5cb6ef9eed7bf0c39799851535c08d6d.mp3",
+    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_05.mp3",
     "title" : "KI VI NUI DEO 05",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6bbb13a12b100f48368a75a98aeda509_5c5f34a9e136d9fa7c8ba8556a0c85d7.mp3",
+    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_06.mp3",
     "title" : "KI VI NUI DEO 06",
     "children" : [ ]
   } ],

@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-26",
-    "duration" : 11725,
+    "published" : "2023-09-06",
+    "duration" : 23450,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/EPUB/EPUB_39d23076b74a2ba6f07d16cd5e91c940.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/EPUB/EPUB_39d23076b74a2ba6f07d16cd5e91c940.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/IMAGE/IMAGE_39d23076b74a2ba6f07d16cd5e91c940.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/IMAGE/IMAGE_39d23076b74a2ba6f07d16cd5e91c940.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_39d23076b74a2ba6f07d16cd5e91c940_d486b9692247ab4a4e13eab0941f5cae.mp3",
+    "href" : "https://archive.org/download/cuong-thu/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4091,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_39d23076b74a2ba6f07d16cd5e91c940_c3c7334f9035c900a45526a62b704465.mp3",
+    "href" : "https://archive.org/download/cuong-thu/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4169,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_39d23076b74a2ba6f07d16cd5e91c940_34ae90b07c8cc2f60eed9e4c8dca3935.mp3",
+    "href" : "https://archive.org/download/cuong-thu/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3465,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_39d23076b74a2ba6f07d16cd5e91c940_d486b9692247ab4a4e13eab0941f5cae.mp3",
+    "href" : "https://archive.org/download/cuong-thu/1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_39d23076b74a2ba6f07d16cd5e91c940_c3c7334f9035c900a45526a62b704465.mp3",
+    "href" : "https://archive.org/download/cuong-thu/2.mp3",
     "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three3/main/AUDIO/AUDIO_39d23076b74a2ba6f07d16cd5e91c940_34ae90b07c8cc2f60eed9e4c8dca3935.mp3",
+    "href" : "https://archive.org/download/cuong-thu/3.mp3",
     "title" : "3",
     "children" : [ ]
   } ],

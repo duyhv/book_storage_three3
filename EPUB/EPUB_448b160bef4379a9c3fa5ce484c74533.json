@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-28",
+    "published" : "2023-09-06",
     "duration" : 25126,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,183 +26,99 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_448b160bef4379a9c3fa5ce484c74533.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/EPUB/EPUB_448b160bef4379a9c3fa5ce484c74533.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_448b160bef4379a9c3fa5ce484c74533.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/IMAGE/IMAGE_448b160bef4379a9c3fa5ce484c74533.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_e71eaa2fc150ae38b3e66590cc9cc34a_1.mp3",
+    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nghiệp ác 01 (1)",
+    "duration" : 2810,
+    "title" : "Nghiệp ác 01",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_e71eaa2fc150ae38b3e66590cc9cc34a_2.mp3",
+    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nghiệp ác 01 (2)",
+    "duration" : 3309,
+    "title" : "Nghiệp ác 02",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_cbcde011a5d0cd96f5b39bf480e3e73f_1.mp3",
+    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nghiệp ác 02 (1)",
+    "duration" : 3780,
+    "title" : "Nghiệp ác 03",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_cbcde011a5d0cd96f5b39bf480e3e73f_2.mp3",
+    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nghiệp ác 02 (2)",
+    "duration" : 4175,
+    "title" : "Nghiệp ác 04",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_094c8f07507693ee2ddad07fd980a9f9_1.mp3",
+    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nghiệp ác 03 (1)",
+    "duration" : 4112,
+    "title" : "Nghiệp ác 05",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_094c8f07507693ee2ddad07fd980a9f9_2.mp3",
+    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nghiệp ác 03 (2)",
+    "duration" : 4056,
+    "title" : "Nghiệp ác 06",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_6f1803b3c742a4a6ecc456d790303a93_1.mp3",
+    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nghiệp ác 04 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_6f1803b3c742a4a6ecc456d790303a93_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nghiệp ác 04 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_ff758870ffeef2f73d0d9aa403df81cd_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nghiệp ác 05 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_ff758870ffeef2f73d0d9aa403df81cd_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nghiệp ác 05 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_d5922b93608f3ff6524274c33dc59f56_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nghiệp ác 06 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_d5922b93608f3ff6524274c33dc59f56_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nghiệp ác 06 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_500fe751500a03d15d3ebfacb6323019_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nghiệp ác 07 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_500fe751500a03d15d3ebfacb6323019_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nghiệp ác 07 (2)",
+    "duration" : 2884,
+    "title" : "Nghiệp ác 07",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_e71eaa2fc150ae38b3e66590cc9cc34a_1.mp3",
-    "title" : "Nghiệp ác 01 (1)",
+    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_01.mp3",
+    "title" : "Nghiệp ác 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_e71eaa2fc150ae38b3e66590cc9cc34a_2.mp3",
-    "title" : "Nghiệp ác 01 (2)",
+    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_02.mp3",
+    "title" : "Nghiệp ác 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_cbcde011a5d0cd96f5b39bf480e3e73f_1.mp3",
-    "title" : "Nghiệp ác 02 (1)",
+    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_03.mp3",
+    "title" : "Nghiệp ác 03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_cbcde011a5d0cd96f5b39bf480e3e73f_2.mp3",
-    "title" : "Nghiệp ác 02 (2)",
+    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_04.mp3",
+    "title" : "Nghiệp ác 04",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_094c8f07507693ee2ddad07fd980a9f9_1.mp3",
-    "title" : "Nghiệp ác 03 (1)",
+    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_05.mp3",
+    "title" : "Nghiệp ác 05",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_094c8f07507693ee2ddad07fd980a9f9_2.mp3",
-    "title" : "Nghiệp ác 03 (2)",
+    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_06.mp3",
+    "title" : "Nghiệp ác 06",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_6f1803b3c742a4a6ecc456d790303a93_1.mp3",
-    "title" : "Nghiệp ác 04 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_6f1803b3c742a4a6ecc456d790303a93_2.mp3",
-    "title" : "Nghiệp ác 04 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_ff758870ffeef2f73d0d9aa403df81cd_1.mp3",
-    "title" : "Nghiệp ác 05 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_ff758870ffeef2f73d0d9aa403df81cd_2.mp3",
-    "title" : "Nghiệp ác 05 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_d5922b93608f3ff6524274c33dc59f56_1.mp3",
-    "title" : "Nghiệp ác 06 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_d5922b93608f3ff6524274c33dc59f56_2.mp3",
-    "title" : "Nghiệp ác 06 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_500fe751500a03d15d3ebfacb6323019_1.mp3",
-    "title" : "Nghiệp ác 07 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_448b160bef4379a9c3fa5ce484c74533_500fe751500a03d15d3ebfacb6323019_2.mp3",
-    "title" : "Nghiệp ác 07 (2)",
+    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_07.mp3",
+    "title" : "Nghiệp ác 07",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

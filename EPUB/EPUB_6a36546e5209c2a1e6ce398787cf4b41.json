@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-03",
-    "duration" : 39293,
+    "published" : "2023-09-06",
+    "duration" : 78586,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_6a36546e5209c2a1e6ce398787cf4b41.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/EPUB/EPUB_6a36546e5209c2a1e6ce398787cf4b41.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_6a36546e5209c2a1e6ce398787cf4b41.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/IMAGE/IMAGE_6a36546e5209c2a1e6ce398787cf4b41.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_6862802ebaed5b1528c51848b970b08d.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%201.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3590,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_119ed99a04c570f4502e6e537eccb1a9.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%2010.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3593,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_b92416fcba713d8d5fc2d0400a2cde32.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%2011.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3595,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_0dff6de47fb7cd3cbdcdbf2aa14e1768.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%202.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3558,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_124016bfe13fea8377a8df372e626401.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%203.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3568,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_154dcd6035a6bed94d8efbea32095466.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%204.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3586,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_c00344c2e133aa7a66a1a06b41bb0a4b.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%205.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3515,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_e3c1af137ad673c398f75efbc7b8549e.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%206.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3585,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_4358d8c59e700068cda2fbc8a24c9c52.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%207.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3588,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_23ecee35a5d12c4975123a9514a47fd6.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%208.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3588,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_fdca3a21bbae71686a696ea56d5261f1.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%209.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3527,
@@ -125,47 +125,47 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_6862802ebaed5b1528c51848b970b08d.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%201.mp3",
     "title" : "Dan-Day 1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_119ed99a04c570f4502e6e537eccb1a9.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%2010.mp3",
     "title" : "Dan-Day 10",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_b92416fcba713d8d5fc2d0400a2cde32.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%2011.mp3",
     "title" : "Dan-Day 11",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_0dff6de47fb7cd3cbdcdbf2aa14e1768.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%202.mp3",
     "title" : "Dan-Day 2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_124016bfe13fea8377a8df372e626401.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%203.mp3",
     "title" : "Dan-Day 3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_154dcd6035a6bed94d8efbea32095466.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%204.mp3",
     "title" : "Dan-Day 4",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_c00344c2e133aa7a66a1a06b41bb0a4b.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%205.mp3",
     "title" : "Dan-Day 5",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_e3c1af137ad673c398f75efbc7b8549e.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%206.mp3",
     "title" : "Dan-Day 6",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_4358d8c59e700068cda2fbc8a24c9c52.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%207.mp3",
     "title" : "Dan-Day 7",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_23ecee35a5d12c4975123a9514a47fd6.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%208.mp3",
     "title" : "Dan-Day 8",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_6a36546e5209c2a1e6ce398787cf4b41_fdca3a21bbae71686a696ea56d5261f1.mp3",
+    "href" : "https://archive.org/download/dan-day/Dan-Day%209.mp3",
     "title" : "Dan-Day 9",
     "children" : [ ]
   } ],

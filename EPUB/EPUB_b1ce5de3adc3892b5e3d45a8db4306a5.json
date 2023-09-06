@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
+    "published" : "2023-09-06",
     "duration" : 6819,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,63 +26,39 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_b1ce5de3adc3892b5e3d45a8db4306a5.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/EPUB/EPUB_b1ce5de3adc3892b5e3d45a8db4306a5.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_b1ce5de3adc3892b5e3d45a8db4306a5.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/IMAGE/IMAGE_b1ce5de3adc3892b5e3d45a8db4306a5.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_b1ce5de3adc3892b5e3d45a8db4306a5_68719bb71ffe1fe209c84f64dcab5316_1.mp3",
+    "href" : "https://archive.org/download/aektettx/anh-em-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "anh-em-1 (1)",
+    "duration" : 2742,
+    "title" : "anh-em-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_b1ce5de3adc3892b5e3d45a8db4306a5_68719bb71ffe1fe209c84f64dcab5316_2.mp3",
+    "href" : "https://archive.org/download/aektettx/anh-em-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "anh-em-1 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_b1ce5de3adc3892b5e3d45a8db4306a5_d6f42175ae2f08bf09368f8b149936e6_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "anh-em-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_b1ce5de3adc3892b5e3d45a8db4306a5_d6f42175ae2f08bf09368f8b149936e6_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "anh-em-2 (2)",
+    "duration" : 4077,
+    "title" : "anh-em-2",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_b1ce5de3adc3892b5e3d45a8db4306a5_68719bb71ffe1fe209c84f64dcab5316_1.mp3",
-    "title" : "anh-em-1 (1)",
+    "href" : "https://archive.org/download/aektettx/anh-em-1.mp3",
+    "title" : "anh-em-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_b1ce5de3adc3892b5e3d45a8db4306a5_68719bb71ffe1fe209c84f64dcab5316_2.mp3",
-    "title" : "anh-em-1 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_b1ce5de3adc3892b5e3d45a8db4306a5_d6f42175ae2f08bf09368f8b149936e6_1.mp3",
-    "title" : "anh-em-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_b1ce5de3adc3892b5e3d45a8db4306a5_d6f42175ae2f08bf09368f8b149936e6_2.mp3",
-    "title" : "anh-em-2 (2)",
+    "href" : "https://archive.org/download/aektettx/anh-em-2.mp3",
+    "title" : "anh-em-2",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
