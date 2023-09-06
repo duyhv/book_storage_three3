@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-08",
-    "duration" : 10903,
+    "published" : "2023-09-06",
+    "duration" : 21806,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/EPUB/EPUB_254fa35d5114f462699f919860962667.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/EPUB/EPUB_254fa35d5114f462699f919860962667.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three3/main/IMAGE/IMAGE_254fa35d5114f462699f919860962667.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three3/main/IMAGE/IMAGE_254fa35d5114f462699f919860962667.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_254fa35d5114f462699f919860962667_dd7652a467c1ff35b3de1f249ab8316c.mp3",
+    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1944,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_254fa35d5114f462699f919860962667_66658bdf6e28891885efae0de12f2e8c.mp3",
+    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1595,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_254fa35d5114f462699f919860962667_753a0c580e6bebe47ed8d8b0d8259127.mp3",
+    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2443,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_254fa35d5114f462699f919860962667_1fc26de421cce11f6fad862101898624.mp3",
+    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2027,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_254fa35d5114f462699f919860962667_ab4c4787cc0c2cb9970342ccfeedb54b.mp3",
+    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2894,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_254fa35d5114f462699f919860962667_dd7652a467c1ff35b3de1f249ab8316c.mp3",
+    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_01.mp3",
     "title" : "HAT HOA BINH 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_254fa35d5114f462699f919860962667_66658bdf6e28891885efae0de12f2e8c.mp3",
+    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_02.mp3",
     "title" : "HAT HOA BINH 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_254fa35d5114f462699f919860962667_753a0c580e6bebe47ed8d8b0d8259127.mp3",
+    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_03.mp3",
     "title" : "HAT HOA BINH 03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_254fa35d5114f462699f919860962667_1fc26de421cce11f6fad862101898624.mp3",
+    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_04.mp3",
     "title" : "HAT HOA BINH 04",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage3/main/AUDIO/AUDIO_254fa35d5114f462699f919860962667_ab4c4787cc0c2cb9970342ccfeedb54b.mp3",
+    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_05.mp3",
     "title" : "HAT HOA BINH 05",
     "children" : [ ]
   } ],
