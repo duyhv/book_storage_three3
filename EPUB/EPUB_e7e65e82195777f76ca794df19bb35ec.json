@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-04-09",
     "duration" : 10614,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/bo-chong-1/bo-chong-1.mp3",
+    "href" : "https://archive.org/download/e7e65e82195777f76ca794df19bb35ec/bo-chong-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5798,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bo-chong-1/bo-chong-2.mp3",
+    "href" : "https://archive.org/download/e7e65e82195777f76ca794df19bb35ec/bo-chong-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4816,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/bo-chong-1/bo-chong-1.mp3",
+    "href" : "https://archive.org/download/e7e65e82195777f76ca794df19bb35ec/bo-chong-1.mp3",
     "title" : "bo-chong-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bo-chong-1/bo-chong-2.mp3",
+    "href" : "https://archive.org/download/e7e65e82195777f76ca794df19bb35ec/bo-chong-2.mp3",
     "title" : "bo-chong-2",
     "children" : [ ]
   } ],
