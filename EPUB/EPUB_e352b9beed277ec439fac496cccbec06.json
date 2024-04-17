@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 14308,
+    "published" : "2024-04-16",
+    "duration" : 7154,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/hon-buom-mo-tien-sachnoiviet/Hon-Buom-Mo-Tien-01.mp3",
+    "href" : "https://archive.org/download/e352b9beed277ec439fac496cccbec06/01-hon-buom-mo-tien.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1773,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hon-buom-mo-tien-sachnoiviet/Hon-Buom-Mo-Tien-02.mp3",
+    "href" : "https://archive.org/download/e352b9beed277ec439fac496cccbec06/02-hon-buom-mo-tien.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1516,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hon-buom-mo-tien-sachnoiviet/Hon-Buom-Mo-Tien-03.mp3",
+    "href" : "https://archive.org/download/e352b9beed277ec439fac496cccbec06/03-hon-buom-mo-tien.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2515,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hon-buom-mo-tien-sachnoiviet/Hon-Buom-Mo-Tien-04.mp3",
+    "href" : "https://archive.org/download/e352b9beed277ec439fac496cccbec06/04-hon-buom-mo-tien-het-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1350,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/hon-buom-mo-tien-sachnoiviet/Hon-Buom-Mo-Tien-01.mp3",
+    "href" : "https://archive.org/download/e352b9beed277ec439fac496cccbec06/01-hon-buom-mo-tien.mp3",
     "title" : "01. Hồn Bướm Mơ Tiên",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hon-buom-mo-tien-sachnoiviet/Hon-Buom-Mo-Tien-02.mp3",
+    "href" : "https://archive.org/download/e352b9beed277ec439fac496cccbec06/02-hon-buom-mo-tien.mp3",
     "title" : "02. Hồn Bướm Mơ Tiên",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hon-buom-mo-tien-sachnoiviet/Hon-Buom-Mo-Tien-03.mp3",
+    "href" : "https://archive.org/download/e352b9beed277ec439fac496cccbec06/03-hon-buom-mo-tien.mp3",
     "title" : "03. Hồn Bướm Mơ Tiên",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hon-buom-mo-tien-sachnoiviet/Hon-Buom-Mo-Tien-04.mp3",
+    "href" : "https://archive.org/download/e352b9beed277ec439fac496cccbec06/04-hon-buom-mo-tien-het-.mp3",
     "title" : "04. Hồn Bướm Mơ Tiên (hết)",
     "children" : [ ]
   } ],
