@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 22506,
+    "published" : "2024-04-22",
+    "duration" : 11253,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/chi-toi.sna/CHI_TOI_01.mp3",
+    "href" : "https://archive.org/download/d6990bf72e927a76dfeabdb48a349436/chi-toi-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2288,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chi-toi.sna/CHI_TOI_02.mp3",
+    "href" : "https://archive.org/download/d6990bf72e927a76dfeabdb48a349436/chi-toi-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1792,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chi-toi.sna/CHI_TOI_03.mp3",
+    "href" : "https://archive.org/download/d6990bf72e927a76dfeabdb48a349436/chi-toi-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2828,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chi-toi.sna/CHI_TOI_04.mp3",
+    "href" : "https://archive.org/download/d6990bf72e927a76dfeabdb48a349436/chi-toi-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1903,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chi-toi.sna/CHI_TOI_05.mp3",
+    "href" : "https://archive.org/download/d6990bf72e927a76dfeabdb48a349436/chi-toi-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2442,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/chi-toi.sna/CHI_TOI_01.mp3",
+    "href" : "https://archive.org/download/d6990bf72e927a76dfeabdb48a349436/chi-toi-01.mp3",
     "title" : "CHI TOI 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chi-toi.sna/CHI_TOI_02.mp3",
+    "href" : "https://archive.org/download/d6990bf72e927a76dfeabdb48a349436/chi-toi-02.mp3",
     "title" : "CHI TOI 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chi-toi.sna/CHI_TOI_03.mp3",
+    "href" : "https://archive.org/download/d6990bf72e927a76dfeabdb48a349436/chi-toi-03.mp3",
     "title" : "CHI TOI 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chi-toi.sna/CHI_TOI_04.mp3",
+    "href" : "https://archive.org/download/d6990bf72e927a76dfeabdb48a349436/chi-toi-04.mp3",
     "title" : "CHI TOI 04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chi-toi.sna/CHI_TOI_05.mp3",
+    "href" : "https://archive.org/download/d6990bf72e927a76dfeabdb48a349436/chi-toi-05.mp3",
     "title" : "CHI TOI 05",
     "children" : [ ]
   } ],
