@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 32252,
+    "published" : "2024-04-29",
+    "duration" : 16126,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/hoa-o-trong-long.sna/HOA_O_TRONG_LONG_01.mp3",
+    "href" : "https://archive.org/download/cc428652d197f82ee7457ea3ed3eeb08/hoa-o-trong-long-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2838,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hoa-o-trong-long.sna/HOA_O_TRONG_LONG_02.mp3",
+    "href" : "https://archive.org/download/cc428652d197f82ee7457ea3ed3eeb08/hoa-o-trong-long-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2147,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hoa-o-trong-long.sna/HOA_O_TRONG_LONG_03.mp3",
+    "href" : "https://archive.org/download/cc428652d197f82ee7457ea3ed3eeb08/hoa-o-trong-long-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2890,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hoa-o-trong-long.sna/HOA_O_TRONG_LONG_04.mp3",
+    "href" : "https://archive.org/download/cc428652d197f82ee7457ea3ed3eeb08/hoa-o-trong-long-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2823,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hoa-o-trong-long.sna/HOA_O_TRONG_LONG_05.mp3",
+    "href" : "https://archive.org/download/cc428652d197f82ee7457ea3ed3eeb08/hoa-o-trong-long-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2603,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hoa-o-trong-long.sna/HOA_O_TRONG_LONG_06.mp3",
+    "href" : "https://archive.org/download/cc428652d197f82ee7457ea3ed3eeb08/hoa-o-trong-long-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2825,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/hoa-o-trong-long.sna/HOA_O_TRONG_LONG_01.mp3",
+    "href" : "https://archive.org/download/cc428652d197f82ee7457ea3ed3eeb08/hoa-o-trong-long-01.mp3",
     "title" : "HOA O TRONG LONG 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hoa-o-trong-long.sna/HOA_O_TRONG_LONG_02.mp3",
+    "href" : "https://archive.org/download/cc428652d197f82ee7457ea3ed3eeb08/hoa-o-trong-long-02.mp3",
     "title" : "HOA O TRONG LONG 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hoa-o-trong-long.sna/HOA_O_TRONG_LONG_03.mp3",
+    "href" : "https://archive.org/download/cc428652d197f82ee7457ea3ed3eeb08/hoa-o-trong-long-03.mp3",
     "title" : "HOA O TRONG LONG 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hoa-o-trong-long.sna/HOA_O_TRONG_LONG_04.mp3",
+    "href" : "https://archive.org/download/cc428652d197f82ee7457ea3ed3eeb08/hoa-o-trong-long-04.mp3",
     "title" : "HOA O TRONG LONG 04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hoa-o-trong-long.sna/HOA_O_TRONG_LONG_05.mp3",
+    "href" : "https://archive.org/download/cc428652d197f82ee7457ea3ed3eeb08/hoa-o-trong-long-05.mp3",
     "title" : "HOA O TRONG LONG 05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hoa-o-trong-long.sna/HOA_O_TRONG_LONG_06.mp3",
+    "href" : "https://archive.org/download/cc428652d197f82ee7457ea3ed3eeb08/hoa-o-trong-long-06.mp3",
     "title" : "HOA O TRONG LONG 06",
     "children" : [ ]
   } ],

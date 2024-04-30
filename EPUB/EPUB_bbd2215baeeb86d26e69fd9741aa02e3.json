@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 18000,
+    "published" : "2024-04-30",
+    "duration" : 16200,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/quoc-gia-khoi-nghiep-dan-senor-sachnoi.cc-04/Quoc%20Gia%20Khoi%20Nghiep%20-%20Dan%20Senor%20-%20sachnoi.cc%20-%2001.mp3",
+    "href" : "https://archive.org/download/bbd2215baeeb86d26e69fd9741aa02e3/quoc-gia-khoi-nghiep-dan-senor-sachnoi-cc-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1800,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quoc-gia-khoi-nghiep-dan-senor-sachnoi.cc-04/Quoc%20Gia%20Khoi%20Nghiep%20-%20Dan%20Senor%20-%20sachnoi.cc%20-%2002.mp3",
+    "href" : "https://archive.org/download/bbd2215baeeb86d26e69fd9741aa02e3/quoc-gia-khoi-nghiep-dan-senor-sachnoi-cc-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quoc-gia-khoi-nghiep-dan-senor-sachnoi.cc-04/Quoc%20Gia%20Khoi%20Nghiep%20-%20Dan%20Senor%20-%20sachnoi.cc%20-%2003.mp3",
+    "href" : "https://archive.org/download/bbd2215baeeb86d26e69fd9741aa02e3/quoc-gia-khoi-nghiep-dan-senor-sachnoi-cc-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5400,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/quoc-gia-khoi-nghiep-dan-senor-sachnoi.cc-04/Quoc%20Gia%20Khoi%20Nghiep%20-%20Dan%20Senor%20-%20sachnoi.cc%20-%2004.mp3",
+    "href" : "https://archive.org/download/bbd2215baeeb86d26e69fd9741aa02e3/quoc-gia-khoi-nghiep-dan-senor-sachnoi-cc-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5400,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/quoc-gia-khoi-nghiep-dan-senor-sachnoi.cc-04/Quoc%20Gia%20Khoi%20Nghiep%20-%20Dan%20Senor%20-%20sachnoi.cc%20-%2001.mp3",
+    "href" : "https://archive.org/download/bbd2215baeeb86d26e69fd9741aa02e3/quoc-gia-khoi-nghiep-dan-senor-sachnoi-cc-01.mp3",
     "title" : "Quoc Gia Khoi Nghiep - Dan Senor - sachnoi.cc - 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quoc-gia-khoi-nghiep-dan-senor-sachnoi.cc-04/Quoc%20Gia%20Khoi%20Nghiep%20-%20Dan%20Senor%20-%20sachnoi.cc%20-%2002.mp3",
+    "href" : "https://archive.org/download/bbd2215baeeb86d26e69fd9741aa02e3/quoc-gia-khoi-nghiep-dan-senor-sachnoi-cc-02.mp3",
     "title" : "Quoc Gia Khoi Nghiep - Dan Senor - sachnoi.cc - 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quoc-gia-khoi-nghiep-dan-senor-sachnoi.cc-04/Quoc%20Gia%20Khoi%20Nghiep%20-%20Dan%20Senor%20-%20sachnoi.cc%20-%2003.mp3",
+    "href" : "https://archive.org/download/bbd2215baeeb86d26e69fd9741aa02e3/quoc-gia-khoi-nghiep-dan-senor-sachnoi-cc-03.mp3",
     "title" : "Quoc Gia Khoi Nghiep - Dan Senor - sachnoi.cc - 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/quoc-gia-khoi-nghiep-dan-senor-sachnoi.cc-04/Quoc%20Gia%20Khoi%20Nghiep%20-%20Dan%20Senor%20-%20sachnoi.cc%20-%2004.mp3",
+    "href" : "https://archive.org/download/bbd2215baeeb86d26e69fd9741aa02e3/quoc-gia-khoi-nghiep-dan-senor-sachnoi-cc-04.mp3",
     "title" : "Quoc Gia Khoi Nghiep - Dan Senor - sachnoi.cc - 04",
     "children" : [ ]
   } ],

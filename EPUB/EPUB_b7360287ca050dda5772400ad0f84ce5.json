@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 10506,
+    "published" : "2024-04-29",
+    "duration" : 8853,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/thang-con-1/thang-con-1.mp3",
+    "href" : "https://archive.org/download/b7360287ca050dda5772400ad0f84ce5/thang-con-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/thang-con-1/thang-con-2.mp3",
+    "href" : "https://archive.org/download/b7360287ca050dda5772400ad0f84ce5/thang-con-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/thang-con-1/thang-con-3.mp3",
+    "href" : "https://archive.org/download/b7360287ca050dda5772400ad0f84ce5/thang-con-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1653,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/thang-con-1/thang-con-1.mp3",
+    "href" : "https://archive.org/download/b7360287ca050dda5772400ad0f84ce5/thang-con-1.mp3",
     "title" : "thang-con-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/thang-con-1/thang-con-2.mp3",
+    "href" : "https://archive.org/download/b7360287ca050dda5772400ad0f84ce5/thang-con-2.mp3",
     "title" : "thang-con-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/thang-con-1/thang-con-3.mp3",
+    "href" : "https://archive.org/download/b7360287ca050dda5772400ad0f84ce5/thang-con-3.mp3",
     "title" : "thang-con-3",
     "children" : [ ]
   } ],
