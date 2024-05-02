@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/luocsuloainguoi1/L%C6%B0%E1%BB%A3c%20s%E1%BB%AD%20lo%C3%A0i%20ng%C6%B0%E1%BB%9Di1.mp3",
+    "href" : "https://archive.org/download/a2446d9e194ace103f9078fed20b8d9f/luoc-su-loai-nguoi1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 10959,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/luocsuloainguoi1/L%C6%B0%E1%BB%A3c%20s%E1%BB%AD%20lo%C3%A0i%20ng%C6%B0%E1%BB%9Di2.mp3",
+    "href" : "https://archive.org/download/a2446d9e194ace103f9078fed20b8d9f/luoc-su-loai-nguoi2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 10693,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/luocsuloainguoi1/L%C6%B0%E1%BB%A3c%20s%E1%BB%AD%20lo%C3%A0i%20ng%C6%B0%E1%BB%9Di1.mp3",
+    "href" : "https://archive.org/download/a2446d9e194ace103f9078fed20b8d9f/luoc-su-loai-nguoi1.mp3",
     "title" : "Lược sử loài người1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/luocsuloainguoi1/L%C6%B0%E1%BB%A3c%20s%E1%BB%AD%20lo%C3%A0i%20ng%C6%B0%E1%BB%9Di2.mp3",
+    "href" : "https://archive.org/download/a2446d9e194ace103f9078fed20b8d9f/luoc-su-loai-nguoi2.mp3",
     "title" : "Lược sử loài người2",
     "children" : [ ]
   } ],
