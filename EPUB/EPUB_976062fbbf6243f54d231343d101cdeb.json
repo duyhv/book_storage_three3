@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 21639,
+    "published" : "2024-05-02",
+    "duration" : 12327,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/sen-no-7/sen-no-1.mp3",
+    "href" : "https://archive.org/download/976062fbbf6243f54d231343d101cdeb/sen-no-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 313,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sen-no-7/sen-no-2.mp3",
+    "href" : "https://archive.org/download/976062fbbf6243f54d231343d101cdeb/sen-no-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1901,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sen-no-7/sen-no-3.mp3",
+    "href" : "https://archive.org/download/976062fbbf6243f54d231343d101cdeb/sen-no-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1865,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sen-no-7/sen-no-4.mp3",
+    "href" : "https://archive.org/download/976062fbbf6243f54d231343d101cdeb/sen-no-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1937,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sen-no-7/sen-no-5.mp3",
+    "href" : "https://archive.org/download/976062fbbf6243f54d231343d101cdeb/sen-no-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1409,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sen-no-7/sen-no-6.mp3",
+    "href" : "https://archive.org/download/976062fbbf6243f54d231343d101cdeb/sen-no-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1887,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sen-no-7/sen-no-7.mp3",
+    "href" : "https://archive.org/download/976062fbbf6243f54d231343d101cdeb/sen-no-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3015,
@@ -93,31 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/sen-no-7/sen-no-1.mp3",
+    "href" : "https://archive.org/download/976062fbbf6243f54d231343d101cdeb/sen-no-1.mp3",
     "title" : "sen-no-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sen-no-7/sen-no-2.mp3",
+    "href" : "https://archive.org/download/976062fbbf6243f54d231343d101cdeb/sen-no-2.mp3",
     "title" : "sen-no-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sen-no-7/sen-no-3.mp3",
+    "href" : "https://archive.org/download/976062fbbf6243f54d231343d101cdeb/sen-no-3.mp3",
     "title" : "sen-no-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sen-no-7/sen-no-4.mp3",
+    "href" : "https://archive.org/download/976062fbbf6243f54d231343d101cdeb/sen-no-4.mp3",
     "title" : "sen-no-4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sen-no-7/sen-no-5.mp3",
+    "href" : "https://archive.org/download/976062fbbf6243f54d231343d101cdeb/sen-no-5.mp3",
     "title" : "sen-no-5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sen-no-7/sen-no-6.mp3",
+    "href" : "https://archive.org/download/976062fbbf6243f54d231343d101cdeb/sen-no-6.mp3",
     "title" : "sen-no-6",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sen-no-7/sen-no-7.mp3",
+    "href" : "https://archive.org/download/976062fbbf6243f54d231343d101cdeb/sen-no-7.mp3",
     "title" : "sen-no-7",
     "children" : [ ]
   } ],

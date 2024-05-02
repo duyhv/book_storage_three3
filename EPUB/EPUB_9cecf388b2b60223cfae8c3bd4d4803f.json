@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-02",
     "duration" : 5815,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/423-loi/423-loi.mp3",
+    "href" : "https://archive.org/download/9cecf388b2b60223cfae8c3bd4d4803f/423-loi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5815,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/423-loi/423-loi.mp3",
+    "href" : "https://archive.org/download/9cecf388b2b60223cfae8c3bd4d4803f/423-loi.mp3",
     "title" : "423-loi",
     "children" : [ ]
   } ],
