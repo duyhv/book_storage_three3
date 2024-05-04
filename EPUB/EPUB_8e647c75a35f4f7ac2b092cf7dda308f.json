@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-04",
     "duration" : 30175,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/trai-dat-5/trai-dat-1.mp3",
+    "href" : "https://archive.org/download/8e647c75a35f4f7ac2b092cf7dda308f/1-trai-dat-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3050,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/trai-dat-5/trai-dat-2.mp3",
+    "href" : "https://archive.org/download/8e647c75a35f4f7ac2b092cf7dda308f/2-trai-dat-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4347,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/trai-dat-5/trai-dat-3.mp3",
+    "href" : "https://archive.org/download/8e647c75a35f4f7ac2b092cf7dda308f/3-trai-dat-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5464,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/trai-dat-5/trai-dat-4.mp3",
+    "href" : "https://archive.org/download/8e647c75a35f4f7ac2b092cf7dda308f/4-trai-dat-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6657,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/trai-dat-5/trai-dat-5.mp3",
+    "href" : "https://archive.org/download/8e647c75a35f4f7ac2b092cf7dda308f/5-trai-dat-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6952,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/trai-dat-5/trai-dat-6.mp3",
+    "href" : "https://archive.org/download/8e647c75a35f4f7ac2b092cf7dda308f/6-trai-dat-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3705,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/trai-dat-5/trai-dat-1.mp3",
+    "href" : "https://archive.org/download/8e647c75a35f4f7ac2b092cf7dda308f/1-trai-dat-1.mp3",
     "title" : "trai-dat-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/trai-dat-5/trai-dat-2.mp3",
+    "href" : "https://archive.org/download/8e647c75a35f4f7ac2b092cf7dda308f/2-trai-dat-2.mp3",
     "title" : "trai-dat-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/trai-dat-5/trai-dat-3.mp3",
+    "href" : "https://archive.org/download/8e647c75a35f4f7ac2b092cf7dda308f/3-trai-dat-3.mp3",
     "title" : "trai-dat-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/trai-dat-5/trai-dat-4.mp3",
+    "href" : "https://archive.org/download/8e647c75a35f4f7ac2b092cf7dda308f/4-trai-dat-4.mp3",
     "title" : "trai-dat-4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/trai-dat-5/trai-dat-5.mp3",
+    "href" : "https://archive.org/download/8e647c75a35f4f7ac2b092cf7dda308f/5-trai-dat-5.mp3",
     "title" : "trai-dat-5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/trai-dat-5/trai-dat-6.mp3",
+    "href" : "https://archive.org/download/8e647c75a35f4f7ac2b092cf7dda308f/6-trai-dat-6.mp3",
     "title" : "trai-dat-6",
     "children" : [ ]
   } ],
