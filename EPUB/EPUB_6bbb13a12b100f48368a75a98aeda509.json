@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 22388,
+    "published" : "2024-05-05",
+    "duration" : 11194,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_01.mp3",
+    "href" : "https://archive.org/download/6bbb13a12b100f48368a75a98aeda509/1-ki-vi-nui-deo-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2762,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_02.mp3",
+    "href" : "https://archive.org/download/6bbb13a12b100f48368a75a98aeda509/2-ki-vi-nui-deo-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1677,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_03.mp3",
+    "href" : "https://archive.org/download/6bbb13a12b100f48368a75a98aeda509/3-ki-vi-nui-deo-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1057,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_04.mp3",
+    "href" : "https://archive.org/download/6bbb13a12b100f48368a75a98aeda509/4-ki-vi-nui-deo-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1954,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_05.mp3",
+    "href" : "https://archive.org/download/6bbb13a12b100f48368a75a98aeda509/5-ki-vi-nui-deo-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1605,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_06.mp3",
+    "href" : "https://archive.org/download/6bbb13a12b100f48368a75a98aeda509/6-ki-vi-nui-deo-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2139,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_01.mp3",
+    "href" : "https://archive.org/download/6bbb13a12b100f48368a75a98aeda509/1-ki-vi-nui-deo-01.mp3",
     "title" : "KI VI NUI DEO 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_02.mp3",
+    "href" : "https://archive.org/download/6bbb13a12b100f48368a75a98aeda509/2-ki-vi-nui-deo-02.mp3",
     "title" : "KI VI NUI DEO 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_03.mp3",
+    "href" : "https://archive.org/download/6bbb13a12b100f48368a75a98aeda509/3-ki-vi-nui-deo-03.mp3",
     "title" : "KI VI NUI DEO 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_04.mp3",
+    "href" : "https://archive.org/download/6bbb13a12b100f48368a75a98aeda509/4-ki-vi-nui-deo-04.mp3",
     "title" : "KI VI NUI DEO 04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_05.mp3",
+    "href" : "https://archive.org/download/6bbb13a12b100f48368a75a98aeda509/5-ki-vi-nui-deo-05.mp3",
     "title" : "KI VI NUI DEO 05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ki-vi-nui-deo.sna/KI_VI_NUI_DEO_06.mp3",
+    "href" : "https://archive.org/download/6bbb13a12b100f48368a75a98aeda509/6-ki-vi-nui-deo-06.mp3",
     "title" : "KI VI NUI DEO 06",
     "children" : [ ]
   } ],
