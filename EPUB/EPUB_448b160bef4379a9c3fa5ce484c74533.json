@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-07",
     "duration" : 25126,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_01.mp3",
+    "href" : "https://archive.org/download/448b160bef4379a9c3fa5ce484c74533/1-nghiep-ac-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2810,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_02.mp3",
+    "href" : "https://archive.org/download/448b160bef4379a9c3fa5ce484c74533/2-nghiep-ac-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3309,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_03.mp3",
+    "href" : "https://archive.org/download/448b160bef4379a9c3fa5ce484c74533/3-nghiep-ac-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3780,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_04.mp3",
+    "href" : "https://archive.org/download/448b160bef4379a9c3fa5ce484c74533/4-nghiep-ac-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4175,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_05.mp3",
+    "href" : "https://archive.org/download/448b160bef4379a9c3fa5ce484c74533/5-nghiep-ac-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4112,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_06.mp3",
+    "href" : "https://archive.org/download/448b160bef4379a9c3fa5ce484c74533/6-nghiep-ac-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4056,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_07.mp3",
+    "href" : "https://archive.org/download/448b160bef4379a9c3fa5ce484c74533/7-nghiep-ac-07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2884,
@@ -93,31 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_01.mp3",
+    "href" : "https://archive.org/download/448b160bef4379a9c3fa5ce484c74533/1-nghiep-ac-01.mp3",
     "title" : "Nghiệp ác 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_02.mp3",
+    "href" : "https://archive.org/download/448b160bef4379a9c3fa5ce484c74533/2-nghiep-ac-02.mp3",
     "title" : "Nghiệp ác 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_03.mp3",
+    "href" : "https://archive.org/download/448b160bef4379a9c3fa5ce484c74533/3-nghiep-ac-03.mp3",
     "title" : "Nghiệp ác 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_04.mp3",
+    "href" : "https://archive.org/download/448b160bef4379a9c3fa5ce484c74533/4-nghiep-ac-04.mp3",
     "title" : "Nghiệp ác 04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_05.mp3",
+    "href" : "https://archive.org/download/448b160bef4379a9c3fa5ce484c74533/5-nghiep-ac-05.mp3",
     "title" : "Nghiệp ác 05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_06.mp3",
+    "href" : "https://archive.org/download/448b160bef4379a9c3fa5ce484c74533/6-nghiep-ac-06.mp3",
     "title" : "Nghiệp ác 06",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nghiep-ac-04/Nghi%E1%BB%87p%20%C3%A1c_07.mp3",
+    "href" : "https://archive.org/download/448b160bef4379a9c3fa5ce484c74533/7-nghiep-ac-07.mp3",
     "title" : "Nghiệp ác 07",
     "children" : [ ]
   } ],

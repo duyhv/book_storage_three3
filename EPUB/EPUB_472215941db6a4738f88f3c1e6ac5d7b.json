@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 55176,
+    "published" : "2024-05-07",
+    "duration" : 30656,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/1.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/1-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2225,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/10.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/2-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2925,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/11.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/3-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2908,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/12.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/4-12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1635,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/13.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/5-13.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3211,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/2.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/6-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2095,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/3.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/7-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1773,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/4.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/8-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1872,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/5.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/9-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2085,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/6.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/10-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2726,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/7.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/11-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2773,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/8.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/12-8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2112,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/9.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/13-9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2316,
@@ -141,55 +141,55 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/1.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/1-1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/10.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/2-10.mp3",
     "title" : "10",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/11.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/3-11.mp3",
     "title" : "11",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/12.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/4-12.mp3",
     "title" : "12",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/13.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/5-13.mp3",
     "title" : "13",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/2.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/6-2.mp3",
     "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/3.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/7-3.mp3",
     "title" : "3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/4.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/8-4.mp3",
     "title" : "4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/5.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/9-5.mp3",
     "title" : "5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/6.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/10-6.mp3",
     "title" : "6",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/7.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/11-7.mp3",
     "title" : "7",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/8.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/12-8.mp3",
     "title" : "8",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/Vanthong10dt3_gmail_nhng_chiec_dong_ho_ky_la/9.mp3",
+    "href" : "https://archive.org/download/472215941db6a4738f88f3c1e6ac5d7b/13-9.mp3",
     "title" : "9",
     "children" : [ ]
   } ],
