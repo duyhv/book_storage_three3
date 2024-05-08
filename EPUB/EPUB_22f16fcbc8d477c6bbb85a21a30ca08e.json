@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 10280,
+    "published" : "2024-05-08",
+    "duration" : 5140,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/01-brian.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/1-brian-nguoi-hung-cua-chung-toi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 348,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/02-christ_cau_be_lop_nam.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/2-chris-cau-be-lop-nam-dac-biet.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 510,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/04-kien_tri_ben_bi.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/3-kien-tri-ben-bi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 335,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/05-mot_tui_day_tien.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/4-mot-tui-day-tien-25-xu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 290,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/06-gia_tri_cua_tieng_cuoi.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/5-gia-tri-cua-tieng-cuoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 621,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/07-nguoi_hung_cua_toi.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/6-nguoi-hung-cua-toi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 354,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/08-nhung_thang_ngay_tuoi_dep.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/7-nhung-thang-ngay-tuoi-dep-nhat.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 365,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/09-kieu_toc_tu_tam.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/8-kieu-toc-tu-tam.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 177,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/10-yeu_thuong_va_ho_tro.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/9-yeu-thuong-va-ho-tro.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 298,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/11-vat_chua.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/10-vat-chua.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 616,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/12-vuot_qua_nui_doi.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/11-12-vuot-qua-nui-doi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1226,
@@ -125,47 +125,47 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/01-brian.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/1-brian-nguoi-hung-cua-chung-toi.mp3",
     "title" : "Brian – người hùng của chúng tôi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/02-christ_cau_be_lop_nam.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/2-chris-cau-be-lop-nam-dac-biet.mp3",
     "title" : "Chris – cậu bé lớp năm đặc biệt",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/04-kien_tri_ben_bi.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/3-kien-tri-ben-bi.mp3",
     "title" : "Kiên trì bền bỉ",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/05-mot_tui_day_tien.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/4-mot-tui-day-tien-25-xu.mp3",
     "title" : "Một túi đầy tiền 25 xu",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/06-gia_tri_cua_tieng_cuoi.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/5-gia-tri-cua-tieng-cuoi.mp3",
     "title" : "Giá trị của tiếng cười",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/07-nguoi_hung_cua_toi.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/6-nguoi-hung-cua-toi.mp3",
     "title" : "Người hùng của tôi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/08-nhung_thang_ngay_tuoi_dep.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/7-nhung-thang-ngay-tuoi-dep-nhat.mp3",
     "title" : "Những tháng ngày tươi đẹp nhất",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/09-kieu_toc_tu_tam.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/8-kieu-toc-tu-tam.mp3",
     "title" : "Kiểu tóc từ tâm",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/10-yeu_thuong_va_ho_tro.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/9-yeu-thuong-va-ho-tro.mp3",
     "title" : "Yêu thương và hỗ trợ",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/11-vat_chua.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/10-vat-chua.mp3",
     "title" : "Vật chứa",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnCss18-vuotLenNghichCanh/12-vuot_qua_nui_doi.mp3",
+    "href" : "https://archive.org/download/22f16fcbc8d477c6bbb85a21a30ca08e/11-12-vuot-qua-nui-doi.mp3",
     "title" : "12-vuot qua nui doi",
     "children" : [ ]
   } ],
