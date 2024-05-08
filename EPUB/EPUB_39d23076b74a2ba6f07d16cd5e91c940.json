@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 23450,
+    "published" : "2024-05-07",
+    "duration" : 11725,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/cuong-thu/1.mp3",
+    "href" : "https://archive.org/download/39d23076b74a2ba6f07d16cd5e91c940/1-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4091,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuong-thu/2.mp3",
+    "href" : "https://archive.org/download/39d23076b74a2ba6f07d16cd5e91c940/2-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4169,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuong-thu/3.mp3",
+    "href" : "https://archive.org/download/39d23076b74a2ba6f07d16cd5e91c940/3-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3465,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/cuong-thu/1.mp3",
+    "href" : "https://archive.org/download/39d23076b74a2ba6f07d16cd5e91c940/1-1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuong-thu/2.mp3",
+    "href" : "https://archive.org/download/39d23076b74a2ba6f07d16cd5e91c940/2-2.mp3",
     "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuong-thu/3.mp3",
+    "href" : "https://archive.org/download/39d23076b74a2ba6f07d16cd5e91c940/3-3.mp3",
     "title" : "3",
     "children" : [ ]
   } ],

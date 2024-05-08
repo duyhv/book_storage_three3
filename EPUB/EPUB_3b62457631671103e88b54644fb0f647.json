@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-08",
     "duration" : 28116,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/noi-tinh-2/noi-tinh-1.mp3",
+    "href" : "https://archive.org/download/3b62457631671103e88b54644fb0f647/1-noi-tinh-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 11334,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/noi-tinh-2/noi-tinh-2.mp3",
+    "href" : "https://archive.org/download/3b62457631671103e88b54644fb0f647/2-noi-tinh-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 16782,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/noi-tinh-2/noi-tinh-1.mp3",
+    "href" : "https://archive.org/download/3b62457631671103e88b54644fb0f647/1-noi-tinh-1.mp3",
     "title" : "noi-tinh-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/noi-tinh-2/noi-tinh-2.mp3",
+    "href" : "https://archive.org/download/3b62457631671103e88b54644fb0f647/2-noi-tinh-2.mp3",
     "title" : "noi-tinh-2",
     "children" : [ ]
   } ],
