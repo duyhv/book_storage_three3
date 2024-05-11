@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 21806,
+    "published" : "2024-05-11",
+    "duration" : 10903,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_01.mp3",
+    "href" : "https://archive.org/download/254fa35d5114f462699f919860962667/1-hat-hoa-binh-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1944,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_02.mp3",
+    "href" : "https://archive.org/download/254fa35d5114f462699f919860962667/2-hat-hoa-binh-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1595,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_03.mp3",
+    "href" : "https://archive.org/download/254fa35d5114f462699f919860962667/3-hat-hoa-binh-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2443,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_04.mp3",
+    "href" : "https://archive.org/download/254fa35d5114f462699f919860962667/4-hat-hoa-binh-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2027,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_05.mp3",
+    "href" : "https://archive.org/download/254fa35d5114f462699f919860962667/5-hat-hoa-binh-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2894,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_01.mp3",
+    "href" : "https://archive.org/download/254fa35d5114f462699f919860962667/1-hat-hoa-binh-01.mp3",
     "title" : "HAT HOA BINH 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_02.mp3",
+    "href" : "https://archive.org/download/254fa35d5114f462699f919860962667/2-hat-hoa-binh-02.mp3",
     "title" : "HAT HOA BINH 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_03.mp3",
+    "href" : "https://archive.org/download/254fa35d5114f462699f919860962667/3-hat-hoa-binh-03.mp3",
     "title" : "HAT HOA BINH 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_04.mp3",
+    "href" : "https://archive.org/download/254fa35d5114f462699f919860962667/4-hat-hoa-binh-04.mp3",
     "title" : "HAT HOA BINH 04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hat-hoa-binh.sna/HAT_HOA_BINH_05.mp3",
+    "href" : "https://archive.org/download/254fa35d5114f462699f919860962667/5-hat-hoa-binh-05.mp3",
     "title" : "HAT HOA BINH 05",
     "children" : [ ]
   } ],
