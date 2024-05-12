@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 20314,
+    "published" : "2024-05-11",
+    "duration" : 10157,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/bi-quyet-thay-doi-cuoc-doi-thoi-quen-cua-nguoi-thanh-cong.sna/1.BQTDCD_KhoiDauCauChuyen.mp3",
+    "href" : "https://archive.org/download/1333787fc098c5597d44c7652766bf05/1-1-bqtdcd-khoidaucauchuyen.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1820,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bi-quyet-thay-doi-cuoc-doi-thoi-quen-cua-nguoi-thanh-cong.sna/2.BQTDCD_BiQuyet1_DenSomHonMoiNguoiRaVeSauCungVaCoGangThemMotChut.mp3",
+    "href" : "https://archive.org/download/1333787fc098c5597d44c7652766bf05/2-2-bqtdcd-biquyet1-densomhonmoinguoiravesaucungvacogangthemmotchut.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1657,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bi-quyet-thay-doi-cuoc-doi-thoi-quen-cua-nguoi-thanh-cong.sna/3.BQTDCD_BiQuyet2_DungBaoGioBienMinhChoViecChuaLamDuoc.mp3",
+    "href" : "https://archive.org/download/1333787fc098c5597d44c7652766bf05/3-3-bqtdcd-biquyet2-dungbaogiobienminhchoviecchualamduoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1583,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bi-quyet-thay-doi-cuoc-doi-thoi-quen-cua-nguoi-thanh-cong.sna/4.BQTDCD_BiQuyet3A_TienDoanVaTimGiaiPhapChoNhungVanDeCoKhaNangXayRa.mp3",
+    "href" : "https://archive.org/download/1333787fc098c5597d44c7652766bf05/4-4-bqtdcd-biquyet3a-tiendoanvatimgiaiphapchonhungvandecokhanangxayra.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 965,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bi-quyet-thay-doi-cuoc-doi-thoi-quen-cua-nguoi-thanh-cong.sna/5.BQTDCD_BiQuyet3B_TienDoanVaTimGiaiPhapChoNhungVanDeCoKhaNangXayRa.mp3",
+    "href" : "https://archive.org/download/1333787fc098c5597d44c7652766bf05/5-5-bqtdcd-biquyet3b-tiendoanvatimgiaiphapchonhungvandecokhanangxayra.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1505,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bi-quyet-thay-doi-cuoc-doi-thoi-quen-cua-nguoi-thanh-cong.sna/6.BQTDCD_BiQuyet4_LamChoNhungNguoiXungQuanhTaTotHonVaCoGiaTriHon.mp3",
+    "href" : "https://archive.org/download/1333787fc098c5597d44c7652766bf05/6-6-bqtdcd-biquyet4-lamchonhungnguoixungquanhtatothonvacogiatrihon.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1483,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bi-quyet-thay-doi-cuoc-doi-thoi-quen-cua-nguoi-thanh-cong.sna/7.BQTDCD_KetThuc.mp3",
+    "href" : "https://archive.org/download/1333787fc098c5597d44c7652766bf05/7-7-bqtdcd-ketthuc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1144,
@@ -93,31 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/bi-quyet-thay-doi-cuoc-doi-thoi-quen-cua-nguoi-thanh-cong.sna/1.BQTDCD_KhoiDauCauChuyen.mp3",
+    "href" : "https://archive.org/download/1333787fc098c5597d44c7652766bf05/1-1-bqtdcd-khoidaucauchuyen.mp3",
     "title" : "1.BQTDCD KhoiDauCauChuyen",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bi-quyet-thay-doi-cuoc-doi-thoi-quen-cua-nguoi-thanh-cong.sna/2.BQTDCD_BiQuyet1_DenSomHonMoiNguoiRaVeSauCungVaCoGangThemMotChut.mp3",
+    "href" : "https://archive.org/download/1333787fc098c5597d44c7652766bf05/2-2-bqtdcd-biquyet1-densomhonmoinguoiravesaucungvacogangthemmotchut.mp3",
     "title" : "2.BQTDCD BiQuyet1 DenSomHonMoiNguoiRaVeSauCungVaCoGangThemMotChut",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bi-quyet-thay-doi-cuoc-doi-thoi-quen-cua-nguoi-thanh-cong.sna/3.BQTDCD_BiQuyet2_DungBaoGioBienMinhChoViecChuaLamDuoc.mp3",
+    "href" : "https://archive.org/download/1333787fc098c5597d44c7652766bf05/3-3-bqtdcd-biquyet2-dungbaogiobienminhchoviecchualamduoc.mp3",
     "title" : "3.BQTDCD BiQuyet2 DungBaoGioBienMinhChoViecChuaLamDuoc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bi-quyet-thay-doi-cuoc-doi-thoi-quen-cua-nguoi-thanh-cong.sna/4.BQTDCD_BiQuyet3A_TienDoanVaTimGiaiPhapChoNhungVanDeCoKhaNangXayRa.mp3",
+    "href" : "https://archive.org/download/1333787fc098c5597d44c7652766bf05/4-4-bqtdcd-biquyet3a-tiendoanvatimgiaiphapchonhungvandecokhanangxayra.mp3",
     "title" : "4.BQTDCD BiQuyet3A TienDoanVaTimGiaiPhapChoNhungVanDeCoKhaNangXayRa",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bi-quyet-thay-doi-cuoc-doi-thoi-quen-cua-nguoi-thanh-cong.sna/5.BQTDCD_BiQuyet3B_TienDoanVaTimGiaiPhapChoNhungVanDeCoKhaNangXayRa.mp3",
+    "href" : "https://archive.org/download/1333787fc098c5597d44c7652766bf05/5-5-bqtdcd-biquyet3b-tiendoanvatimgiaiphapchonhungvandecokhanangxayra.mp3",
     "title" : "5.BQTDCD BiQuyet3B TienDoanVaTimGiaiPhapChoNhungVanDeCoKhaNangXayRa",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bi-quyet-thay-doi-cuoc-doi-thoi-quen-cua-nguoi-thanh-cong.sna/6.BQTDCD_BiQuyet4_LamChoNhungNguoiXungQuanhTaTotHonVaCoGiaTriHon.mp3",
+    "href" : "https://archive.org/download/1333787fc098c5597d44c7652766bf05/6-6-bqtdcd-biquyet4-lamchonhungnguoixungquanhtatothonvacogiatrihon.mp3",
     "title" : "6.BQTDCD BiQuyet4 LamChoNhungNguoiXungQuanhTaTotHonVaCoGiaTriHon",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bi-quyet-thay-doi-cuoc-doi-thoi-quen-cua-nguoi-thanh-cong.sna/7.BQTDCD_KetThuc.mp3",
+    "href" : "https://archive.org/download/1333787fc098c5597d44c7652766bf05/7-7-bqtdcd-ketthuc.mp3",
     "title" : "7.BQTDCD KetThuc",
     "children" : [ ]
   } ],
