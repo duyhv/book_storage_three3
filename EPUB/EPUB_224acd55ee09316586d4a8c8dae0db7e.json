@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 55128,
+    "published" : "2024-05-13",
+    "duration" : 53136,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/ga_20230722/00001_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/1-00001-gene-atlantis.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3298,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00002_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/2-00002-gene-atlantis.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2195,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00003_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/3-00003-gene-atlantis.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3486,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00004_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/4-00004-gene-atlantis.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2818,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00005_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/5-00005-gene-atlantis.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3526,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00006_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/6-00006-gene-atlantis.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3402,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00007_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/7-00007-gene-atlantis.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3946,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00008_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/8-00008-gene-atlantis.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5331,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00009_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/9-00009-gene-atlantis.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3336,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00010_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/10-00010-gene-atlantis.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3925,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00011_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/11-00011-gene-atlantis.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3594,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00012_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/12-00012-gene-atlantis.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4180,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00013_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/13-00013-gene-atlantis.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3642,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00014_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/14-00014-gene-atlantis.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4465,
@@ -148,7 +148,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00015_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/15-00015-gene-atlantis.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1992,
@@ -157,63 +157,63 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/ga_20230722/00001_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/1-00001-gene-atlantis.mp3",
     "title" : "00001 Gene Atlantis",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00002_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/2-00002-gene-atlantis.mp3",
     "title" : "00002 Gene Atlantis",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00003_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/3-00003-gene-atlantis.mp3",
     "title" : "00003 Gene Atlantis",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00004_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/4-00004-gene-atlantis.mp3",
     "title" : "00004 Gene Atlantis",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00005_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/5-00005-gene-atlantis.mp3",
     "title" : "00005 Gene Atlantis",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00006_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/6-00006-gene-atlantis.mp3",
     "title" : "00006 Gene Atlantis",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00007_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/7-00007-gene-atlantis.mp3",
     "title" : "00007 Gene Atlantis",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00008_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/8-00008-gene-atlantis.mp3",
     "title" : "00008 Gene Atlantis",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00009_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/9-00009-gene-atlantis.mp3",
     "title" : "00009 Gene Atlantis",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00010_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/10-00010-gene-atlantis.mp3",
     "title" : "00010 Gene Atlantis",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00011_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/11-00011-gene-atlantis.mp3",
     "title" : "00011 Gene Atlantis",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00012_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/12-00012-gene-atlantis.mp3",
     "title" : "00012 Gene Atlantis",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00013_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/13-00013-gene-atlantis.mp3",
     "title" : "00013 Gene Atlantis",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00014_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/14-00014-gene-atlantis.mp3",
     "title" : "00014 Gene Atlantis",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ga_20230722/00015_Gene%20Atlantis.m4a",
+    "href" : "https://archive.org/download/224acd55ee09316586d4a8c8dae0db7e/15-00015-gene-atlantis.mp3",
     "title" : "00015 Gene Atlantis",
     "children" : [ ]
   } ],
