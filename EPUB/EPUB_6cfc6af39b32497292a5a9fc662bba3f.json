@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-02",
-    "duration" : 1998,
+    "published" : "2024-09-20",
+    "duration" : 1971,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,14 +39,14 @@
     "href" : "https://archive.org/download/6cfc6af39b32497292a5a9fc662bba3f/868255133662543.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1998,
-    "title" : "868255133662543",
+    "duration" : 1971,
+    "title" : "Trọn bộ",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
     "href" : "https://archive.org/download/6cfc6af39b32497292a5a9fc662bba3f/868255133662543.mp3",
-    "title" : "868255133662543",
+    "title" : "Trọn bộ",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

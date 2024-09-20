@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-04",
-    "duration" : 30175,
+    "published" : "2024-09-20",
+    "duration" : 30178,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/8e647c75a35f4f7ac2b092cf7dda308f/1-trai-dat-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3050,
+    "duration" : 3051,
     "title" : "trai-dat-1",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/8e647c75a35f4f7ac2b092cf7dda308f/2-trai-dat-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4347,
+    "duration" : 4348,
     "title" : "trai-dat-2",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/8e647c75a35f4f7ac2b092cf7dda308f/4-trai-dat-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6657,
+    "duration" : 6658,
     "title" : "trai-dat-4",
     "properties" : null,
     "alternate" : null
