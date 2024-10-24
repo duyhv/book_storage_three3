@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-20",
-    "duration" : 21654,
+    "published" : "2024-10-24",
+    "duration" : 21652,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,28 +36,28 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/a2446d9e194ace103f9078fed20b8d9f/luoc-su-loai-nguoi1.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/a2446d9e194ace103f9078fed20b8d9f/cloudflare_1-luoc-su-loai-nguoi1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 10960,
+    "duration" : 10959,
     "title" : "Lược sử loài người1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/a2446d9e194ace103f9078fed20b8d9f/luoc-su-loai-nguoi2.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/a2446d9e194ace103f9078fed20b8d9f/cloudflare_2-luoc-su-loai-nguoi2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 10694,
+    "duration" : 10693,
     "title" : "Lược sử loài người2",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/a2446d9e194ace103f9078fed20b8d9f/luoc-su-loai-nguoi1.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/a2446d9e194ace103f9078fed20b8d9f/cloudflare_1-luoc-su-loai-nguoi1.mp3",
     "title" : "Lược sử loài người1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/a2446d9e194ace103f9078fed20b8d9f/luoc-su-loai-nguoi2.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/a2446d9e194ace103f9078fed20b8d9f/cloudflare_2-luoc-su-loai-nguoi2.mp3",
     "title" : "Lược sử loài người2",
     "children" : [ ]
   } ],
